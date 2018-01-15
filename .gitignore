@@ -1,0 +1,5 @@
+logs/
+configs.json
+npm-debug.log
+yarn-error.log
+*.sublime-*

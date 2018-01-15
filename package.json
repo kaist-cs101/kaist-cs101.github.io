@@ -1,0 +1,13 @@
+{
+  "name": "kaist-cs101.github.io",
+  "version": "1.0.0",
+  "description": "GitHub Pages for KAIST CS101 static webpage",
+  "main": "index.html",
+  "repository": "git@github.com:kaist-cs101/kaist-cs101.github.io.git",
+  "author": "Jeongmin Byun <jmbyun91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
