@@ -3,3 +3,4 @@ configs.json
 npm-debug.log
 yarn-error.log
 *.sublime-*
+.DS_Store
