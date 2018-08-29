@@ -24,6 +24,15 @@ body {
   height: 100%;
 }
 
+table.table-bordered, table.table-bordered > thead > tr > th, table.table-bordered > tbody > tr > td, table.table-bordered > tbody > tr > th{
+  border:1px solid black;
+  border-width: 1px;
+}
+
+.red-light {
+  color: rgba(200,0,0,0.8)
+}
+
 ol {
   list-style: none;
   margin: 0;
