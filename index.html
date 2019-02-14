@@ -5,8 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
     <title>CS101 Introduction to Programming</title>
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css"></link>
-    <link rel="stylesheet" href="assets/style.css"></link>
+    <script src="/node_modules/markdown-it/dist/markdown-it.min.js"></script>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css"></link>
+    <link rel="stylesheet" href="/assets/style.css"></link>
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -35,7 +36,7 @@
     <div class="container">
       <div class="content">
         <h1>CS101: Introduction to Programming</h1>
-        <h3>KAIST Fall 2018</h3>
+        <h3 id="semester">KAIST Spring/Fall 20**</h3>
 
         <p class="lead">
           The objective of CS101 is to teach programming skills and computational thinking. The first is important
@@ -46,214 +47,42 @@
         </p>
 
         <hr />
-        <h4>
-          Announcement
-        </h4>
-        <p>
-          <strong style="color: rgba(255,0,0,0.8)">Important!</strong> Final Announcement: <a href="https://docs.google.com/document/d/1h2NDLnx5hEQAIVUarS6yNrZcGCkP3YlsD5vhU5tBh1M/edit#">Link</a><br/>
-        </p><br/>
-        <p>
-        Please refer to the *UPDATED* attendance sheet to check your designated seat. <a href="/assets/files/CS101_seating_plan_final.pdf">link</a><br/>
-        Blue seats are all-in-one desks.<br/>
-        If you have any question about your seat, please send an email to below address.<br/>
-        <dl>
-          <dt>Yoojin Kim <a href="mailto:luciaicul@kaist.ac.kr">luciaicul@kaist.ac.kr</a></dt>
-          <dt>Junggwan Lee <a href="mailto:leejk525@kaist.ac.kr">leejk525@kaist.ac.kr</a></dt>
-        </dl>
-
-        <h4>
-          Documents
-        </h4>
-        <p>
-          <ul>
-            <li>
-              <a href="https://docs.google.com/viewer?url=https://docs.google.com/document/d/1TdBiiDuGc_b_fYp_xdxNaJn09_srw6DVxYgdt1tVMKc/export?format=pdf">
-                Syllabus (<i>updated on August 23th, 2018</i>)
-              </a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/viewer?url=https://docs.google.com/document/d/1Odrm2TNC7bZiTcsfFtV920YwUXAL4hdNRop4bX_v7w8/export?format=pdf">
-                Schedule (<i>updated on August 13th, 2018</i>)
-              </a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/spreadsheets/d/109ZNGZHVdcTTGHCWMkOJ6fzRs3DDIN10cgnBMbySc0k/edit#gid=0">
-                Attendance
-              </a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/spreadsheets/d/1dRlTs9C1FRQKYQ712kQRx09QM8lhpDXn5BJd1fnw8do/edit?usp=sharing">
-                List of Terms
-              </a>
-            </li>
-          </ul>
-        </p>
-
-        <h4>
-          Downloads
-        </h4>
-        <p>
-          <ul>
-            <li>
-              <a href="/assets/files/cs101_libraries_py35.zip">Python 3 Libraries for CS101</a>
-            </li>
-            <li>
-              <a href="/assets/files/robotnotes.pdf"><i>Robot notes</i> for CS101</a>
-            </li>
-            <li>
-              <a href="/assets/files/worlds.zip"><i>Robot worlds</i> for CS101</a>
-            </li>
-          </ul>
-        </p>
-
-        <h4>
-          Lecture &amp; Lab Notes
-        </h4>
-        <p>
-          <ul>
-            <li>
-              <a href="https://drive.google.com/open?id=1Jqh_FkfhFpF9OgkT0lntrxPUXSwVX3IL">Lecture notes</a>
-            </li>
-            <li>
-              <a href="https://drive.google.com/open?id=1SKCq_gJh_UY_phsSPdpiqkXV5dtaiF9t">Lab notes</a>
-            </li>
-          </ul>
-        </p>
-
-        <h4>
-          Head TAs
-        </h4>
-        <p>
-          <ul>
-            <li>* Sangjae Lee <a href="mailto:summit@kaist.ac.kr">summit@kaist.ac.kr</a></li>
-            <li>Jeongmin Byun <a href="mailto:jmbyun@kaist.ac.kr">jmbyun@kaist.ac.kr</a> (D & H sections)</li>
-            <li>Kyungduk Baek <a href="mailto:blest215@kaist.ac.kr">blest215@kaist.ac.kr</a> (B & J sections)</li>
-            <li>Youngsoo Jang <a href="mailto:jys5609@kaist.ac.kr">jys5609@kaist.ac.kr</a> (E & G sections)</li>
-            <li>Minho Park <a href="mailto:pmh10401@gmail.com">pmh10401@gmail.com</a> (A & C sections)</li>
-            <li>Sumin Ahn <a href="mailto:smahn@kaist.ac.kr">smahn@kaist.ac.kr</a> (F & I sections)</li>
-          </ul>
-        * Representative Head TA
-        </p>
-
-        <h4>
-          Timetable
-        </h4>
-        <div><span class="c2"></span></p></div><p class="c9"><span class="c2">Lecture Date &amp; Time: Every Monday, 10:30 ~ 12:30</span></p><p class="c9"><span class="c2">Lecture Rooms: Creative Bldg. 101 (A/B:&#44256;&#51064;&#50689;), 103 (C/D:&#44608;&#49692;&#53468;), 201 (E/F:&#47609;&#49457;&#54788;), 203 (G/H:&#52572;&#44592;&#49440;), 301 (I/J:&#52572;&#49457;&#55148;)</span></p><p class="c6"><span class="c2"></span></p><a id="t.62f101813668e3f5185a1e5e2eee260c8af5efb3"></a><a id="t.0"></a><table class="c15"><tbody><tr class="c13"><td class="c10" colspan="2" rowspan="1"><p class="c5"><span class="c2">Monday</span></p><p class="c5"><span class="c2">13:00 ~ 16:00</span></p></td><td class="c10" colspan="2" rowspan="1"><p class="c5"><span class="c2">Tuesday</span></p><p class="c5"><span class="c2">13:00 ~ 16:00</span></p></td><td class="c10" colspan="2" rowspan="1"><p class="c5"><span class="c2">Wednesday</span></p><p class="c5"><span class="c2">09:00 ~ 12:00</span></p></td><td class="c10" colspan="2" rowspan="1"><p class="c5"><span class="c2">Thursday</span></p><p class="c5"><span class="c2">09:00 ~ 12:00</span></p></td><td class="c10" colspan="2" rowspan="1"><p class="c5"><span class="c2">Friday</span></p><p class="c5"><span class="c2">09:00 ~ 12:00</span></p></td></tr><tr class="c12"><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section E</span></p><p class="c5"><span>307, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section F</span></p><p class="c5"><span>308, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section G</span></p><p class="c5"><span>307, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section H</span></p><p class="c5"><span>308, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section I</span></p><p class="c5"><span>307, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section J</span></p><p class="c5"><span>308, E11</span></p></td></tr><tr class="c12"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td></tr><tr class="c12"><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section A</span></p><p class="c5"><span>307, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section B</span></p><p class="c5"><span>308, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section C</span></p><p class="c5"><span>307, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c5"><span class="c2">Section D</span></p><p class="c5"><span>308, E11</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c1"></span></p></td></tr><tr class="c12"><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c1"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c3"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c8"><span class="c2"></span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c11"><span class="c2">&nbsp;</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c11"><span class="c2">&nbsp;</span></p></td></tr></tbody></table><div><p class="c6"><span class="c2"></span></p></div>
-      
-        <h4>
-          Lecture Weekly Schedule
-        </h4>
-          <table class="c15 table table-bordered" style="max-width: 700pt;">
-            <thead>
-              <tr>
-                  <th scope='row' class='col-sm-1'>Week #</th>
-                  <th class='col-sm-4'>Weekly Topic</th>
-                  <th class='col-sm-1'>Homework</th>
-                  <th class='col-sm-1'>Office Hour</th>
-                </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope='row' class='col-sm-1'>1</th>
-                <td class='col-sm-4'>Lecture 1 - Introduction to Programming</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>2</th>
-                <td class='col-sm-4'>Lecture 2 - Conditionals and <i>while</i> loops</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>3</th>
-                <td class='col-sm-4'>Lecture 3 - Variables and Basic Data Types</td>
-                <td class='col-sm-1'>HW1 Out</td>
-                <td class='col-sm-1'>OH1</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>4</th>
-                <td class='col-sm-4'>Lecture 4 - Functions with Parameters and Return Values</td>
-                <td class='col-sm-1'>HW1 Due</td>
-                <td class='col-sm-1'>OH2</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>5</th>
-                <td class='col-sm-4 red-light'>No Class (Chuseok)</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>6</th>
-                <td class='col-sm-4'>Lecture 5 - Local/Global Variables and Graphical Objects</td>
-                <td class='col-sm-1'>HW2 Out</td>
-                <td class='col-sm-1'>OH3</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>7</th>
-                <td class='col-sm-4 red-light'>No Class (Study Week)</td>
-                <td class='col-sm-1'>HW2 Due</td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>8</th>
-                <td class='col-sm-4'><strong>Midterm Exam Week</strong></td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>9</th>
-                <td class='col-sm-4'>Lecture 6 - Sequences: Lists, Strings, and Tuples</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'>OH4</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>10</th>
-                <td class='col-sm-4'>Lecture 7 - String, Set, Dictionary and Image Processing</td>
-                <td class='col-sm-1 blue-light'>HW3 Out</td>
-                <td class='col-sm-1'>OH5</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>11</th>
-                <td class='col-sm-4'>Lecture 8 - Text Processing</td>
-                <td class='col-sm-1'>HW3 Due</td>
-                <td class='col-sm-1'>OH6</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>12</th>
-                <td class='col-sm-4'>Lecture 9 - Objects: Creation and Attributes</td>
-                <td class='col-sm-1'>HW4 Out</td>
-                <td class='col-sm-1'>OH7</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>13</th>
-                <td class='col-sm-4'>Lecture 10 - Object Construction and User Interface
-                  Programming</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'>OH8</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>14</th>
-                <td class='col-sm-4'>Lecture 11 - Compilers/Interpreters and Algorithms</td>
-                <td class='col-sm-1'>HW4 Due</td>
-                <td class='col-sm-1'></td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>15</th>
-                <td class='col-sm-4 red-light'>No Class (Study Week)</td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'>OH9</td>
-              </tr>
-              <tr>
-                <th scope='row' class='col-sm-1'>16</th>
-                <td class='col-sm-4'><strong>Final Exam week</strong></td>
-                <td class='col-sm-1'></td>
-                <td class='col-sm-1'></td>
-              </tr>
-            </tbody>
-          </table>
-
+        
+        <div id="main">
+          Loading...
+        </div>
       </div><!-- /.content -->
     </div><!-- /.container -->
+
+    <script>
+      function loadMarkdown(path, targetId) {
+        window.__md = window.__md || window.markdownit();
+        var req = new XMLHttpRequest();
+        req.addEventListener('load', function (e) {
+          document.getElementById(targetId).innerHTML = window.__md.render(e.target.response);
+        });
+        req.open('GET', path);
+        req.send();
+      }
+      function loadMainMarkdown() {
+        loadMarkdown('/documents/main.md', 'main');
+      }
+      function setSemester() {
+        var date = new Date();
+        var year = date.getFullYear();
+        var month = date.getMonth() + 1;
+        var season = 'Fall';
+        if (2 <= month && month <= 7) {
+          season = 'Spring';
+        }
+        if (month == 1) {
+          year -= 1;
+        }
+        var semester = 'KAIST ' + season + ' ' + year;
+        document.getElementById('semester').innerHTML = semester;
+      }
+      loadMainMarkdown();
+      setSemester();
+    </script>
   </body>
 </html>
