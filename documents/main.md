@@ -53,10 +53,6 @@ Students need to attend the lab session every week. One of the tasks done during
 There will also be four take-home assignments where you have to program slightly more complex tasks.
  
 Lab sessions will introduce students to pair programming.
- 
-The course webpage (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
- 
-All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the comprehensive CS101 website http://cs101.kaist.ac.kr/.
 
 ### Project-based Learning Section Z
 We have a project-based learning section Z which has different course structure and grading policy. Students in Section Z will learn by practicing programming and active discussion during class. This section will teach different course material and will be taught in Korean.  
