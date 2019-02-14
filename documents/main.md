@@ -18,25 +18,25 @@
 ## Syllabus
 
 ### Instructors
-- Sections A & B: Prof. KeeEung Kim, [kekim@cs.kaist.ac.kr](kekim@cs.kaist.ac.kr), 042-350-3536, E3-1 2402 
-- Sections C & D: Prof. MyungCheol Kim, [mck@kaist.ac.kr](mck@kaist.ac.kr), 042-350-3552, N1 801
-- Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.kim@gmail.com), 042-350-3543, E3-1 2434 
-- Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
-- Section Z (special section): Prof. Junehwa Song, [junesong@cs.kaist.ac.kr](junesong@cs.kaist.ac.kr), 042-350-3546, E3-1 4432
+- Sections A & B: Prof. KeeEung Kim, [kekim@cs.kaist.ac.kr](mailto:kekim@cs.kaist.ac.kr), 042-350-3536, E3-1 2402 
+- Sections C & D: Prof. MyungCheol Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
+- Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.mailto:kim@gmail.com), 042-350-3543, E3-1 2434 
+- Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](mailto:geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
+- Section Z (special section): Prof. Junehwa Song, [junesong@cs.kaist.ac.kr](mailto:junesong@cs.kaist.ac.kr), 042-350-3546, E3-1 4432
 
 ### Admin. Staff
-For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
+For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
 
 ### Teaching Assistants
 7-8 TAs will be assigned to each section
 
 ### Head TAs 
-- Representative Head TA: Minho Park, [pmh10401@gmail.com](pmh10401@gmail.com)
-- Sections A & C:  Sumin An, [smahn@kaist.ac.kr](smahn@kaist.ac.kr)
-- Sections B & D:  Changmin Sung, [shade@kaist.ac.kr](shade@kaist.ac.kr)
-- Sections E & G:  Jeongmin Byun, [jmbyun@kaist.ac.kr](jmbyun@kaist.ac.kr)
-- Sections F & H:  KyeongDeok Baek, [blest215@kaist.ac.kr](blest215@kaist.ac.kr)
-- Section Z (special section):  Youngjae Chang, [yjchang@nclab.kaist.ac.kr](yjchang@nclab.kaist.ac.kr)
+- Representative Head TA: Minho Park, [pmh10401@gmail.com](mailto:pmh10401@gmail.com)
+- Sections A & C:  Sumin An, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Sections B & D:  Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Sections E & G:  Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
+- Sections F & H:  KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
+- Section Z (special section):  Youngjae Chang, [yjchang@nclab.kaist.ac.kr](mailto:yjchang@nclab.kaist.ac.kr)
   
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -124,6 +124,6 @@ We will also make use of the online programming education platform, Elice.
 **For Section Z:**
 
 - Date & Time:
-    - Monday  4:00 PM- 6:00 PM [@](@) Creative Bldg 301
-    - Tuesday 9:30 AM- 12:30 AM [@](@) Creative Bldg 301 
+    - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
+    - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 301 
 
