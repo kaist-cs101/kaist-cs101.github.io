@@ -73,15 +73,17 @@ You can register and learn the on-line CS101 lectures in KOOC
 CS101 grading consists of two parts: practice and theory.
  
 Practice points are collected as follows:
-• 100 points for lecture attendance
-• 100 points for lab work
-• 200 points for homework
+- 100 points for lecture attendance
+- 100 points for lab work
+- 200 points for homework
+
 Students need to collect at least 340 practice points. Only the students who scored 340~400 practice points are entitled to be graded. Students who did not earn 340 practice points receive a fail grade
  
 Theory points are collected as follows:
-• 100 points for midterm exam.
-• 100 points for final exam.
- The final score for CS101 is determined entirely by the theory points.
+- 100 points for midterm exam.
+- 100 points for final exam.
+
+The final score for CS101 is determined entirely by the theory points.
 
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming, and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
