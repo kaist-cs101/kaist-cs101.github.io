@@ -92,26 +92,20 @@ We will make use of the following freely available software: Python 3, PyCharm I
 We will also make use of the online programming education platform, Elice.
  
 ## Lecture and Lab Schedule
-Lecture Date & Time: Tuesday 10:30AM-12:30PM  (A,B,C,D,E,F,G,H)
-
-Lecture Rooms: Creative Bldg. 101 (A & B), 203 (C & D), 301 (E & F), 303 (G & H) 
-
-Lab. Dates & Times: 
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM  (A,B,C,D,E,F,G,H)
+- Lecture Rooms: Creative Bldg. 101 (A & B), 203 (C & D), 301 (E & F), 303 (G & H) 
+- Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu | Fri   |
 |-------|-------|-------|-------|-----|-------|
 | 9-12  | A & B |       | E & F |     | G & H |
 | 13-16 |       | C & D |       |     |       |
  
-
- 
-
-Lab. Room: Creative Bldg. 307, 308
+- Lab. Room: Creative Bldg. 307, 308
 
 **For Section Z:**
 
-Date & Time:
-
-- Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
-- Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 301 
+- Date & Time:
+    - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
+    - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 301 
 
