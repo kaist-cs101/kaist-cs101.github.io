@@ -108,6 +108,8 @@ We will make use of the following freely available software: Python 3, PyCharm I
 We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
+
+#### Section A-H
 - Lecture Date & Time: Tuesday 10:30AM-12:30PM  (A,B,C,D,E,F,G,H)
 - Lecture Rooms: Creative Bldg. 101 (A & B), 203 (C & D), 301 (E & F), 303 (G & H) 
 - Lab. Dates & Times: 
@@ -119,7 +121,27 @@ We will also make use of the online programming education platform, Elice.
  
 - Lab. Room: Creative Bldg. 307, 308
 
-**For Section Z:**
+|           | Lecture |         | Lab |                |      |      | Homework |
+|-----------|-----------|---------|---------|----------------|------|------|------|
+| Week No. | Month        | Day (Tue.) | Mon      | Tue             | Wed   | Fri   |      |
+| 1         | 2         | 26      |         | CD1            | EF1  | GH1  |      |
+| 2         | 3         | 5       | AB1     | CD2            | EF2  | GH2  |      |
+| 3         | 3         | 12      | AB2     | CD3            | EF3  | GH3  |      |
+| 4         | 3         | 19      | AB3     | CD4            | EF4  | GH4  |      |
+| 5         | 3         | 26      | AB4     | CD5            | EF5  | GH5  |      |
+| 6         | 4         | 2       | AB5     | CD6            | EF6  | GH6  |      |
+| No Class  | 4         | 9       | AB6     |                |      |      |      |
+| Midterm  | 4         | 15-19   |         |                |      |      |      |
+| 7         | 4         | 23      |         | CD7            | EF7  | GH7  |      |
+| 8         | 4         | 30      | AB7     | CD8            | EF8  | GH8  |      |
+| 9         | 5         | 7       | Holiday    | CD9            | EF9  | GH9  |      |
+| No Class  | 5         | 14      | AB8     | No Lab |      |      |      |
+| 10        | 5         | 21      | AB9     | CD10           | EF10 | GH10 |      |
+| 11        | 5         | 28      | AB10    |                |      |      |      |
+| No Class  | 6         | 4       |         |                |      |      |      |
+| Final Exam  | 6         | Oct-14  |         |                |      |      |      |
+
+#### Section Z
 
 - Date & Time:
     - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
