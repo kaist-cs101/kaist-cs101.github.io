@@ -7,6 +7,7 @@
 
 ### Documents
 - [Syllabus](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
+- [Syllabus for Section Z](https://cs101z.page.link/syllabus)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
@@ -22,7 +23,7 @@
 - Sections C & D: Prof. MyungCheol Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
 - Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.mailto:kim@gmail.com), 042-350-3543, E3-1 2434 
 - Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](mailto:geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
-- Section Z (special section): Prof. Junehwa Song, [junesong@cs.kaist.ac.kr](mailto:junesong@cs.kaist.ac.kr), 042-350-3546, E3-1 4432
+- Section Z (special section): Prof. Junehwa Song, [junesong@nclab.kaist.ac.kr](mailto:junesong@nclab.kaist.ac.kr), 042-350-3546, E3-1 4435
 
 ### Admin. Staff
 For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -121,6 +122,7 @@ We will also make use of the online programming education platform, Elice.
 
 **For Section Z:**
 
+- You can enroll to this section via [KAIST Academic System](https://ssogw6.kaist.ac.kr/notice)
 - Date & Time:
     - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
     - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 401 
