@@ -6,8 +6,9 @@
 ## Links
 
 ### Documents
-- [Syllabus](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
-- [Syllabus for Section Z](https://cs101z.page.link/syllabus)
+- [Syllabus (Sections A-H)](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
+- [Syllabus (Section Z)](https://cs101z.page.link/syllabus)
+- [Lecture Notes (Sections A-H)](https://drive.google.com/drive/folders/15DGGT1DNuUxd28TJA2m8j3kkq5trOO6y?usp=sharing)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
@@ -122,25 +123,25 @@ We will also make use of the online programming education platform, Elice.
  
 - Lab. Room: Creative Bldg. 307, 308
 
-|           | Lecture |         | Lab |                |      |      | Homework |
-|-----------|-----------|---------|---------|----------------|------|------|------|
-| Week No. | Month        | Day (Tue.) | Mon      | Tue             | Wed   | Fri   |      |
-| 1         | 2         | 26      |         | CD1            | EF1  | GH1  |      |
-| 2         | 3         | 5       | AB1     | CD2            | EF2  | GH2  |      |
-| 3         | 3         | 12      | AB2     | CD3            | EF3  | GH3  |      |
-| 4         | 3         | 19      | AB3     | CD4            | EF4  | GH4  |      |
-| 5         | 3         | 26      | AB4     | CD5            | EF5  | GH5  |      |
-| 6         | 4         | 2       | AB5     | CD6            | EF6  | GH6  |      |
-| No Class  | 4         | 9       | AB6     |                |      |      |      |
-| Midterm  | 4         | 15-19   |         |                |      |      |      |
-| 7         | 4         | 23      |         | CD7            | EF7  | GH7  |      |
-| 8         | 4         | 30      | AB7     | CD8            | EF8  | GH8  |      |
-| 9         | 5         | 7       | Holiday    | CD9            | EF9  | GH9  |      |
-| No Class  | 5         | 14      | AB8     | No Lab |      |      |      |
-| 10        | 5         | 21      | AB9     | CD10           | EF10 | GH10 |      |
-| 11        | 5         | 28      | AB10    |                |      |      |      |
-| No Class  | 6         | 4       |         |                |      |      |      |
-| Final Exam  | 6         | Oct-14  |         |                |      |      |      |
+|            | Lecture   |         | Lab     |                |      |      | Homework |
+|------------|-----------|---------|---------|----------------|------|------|----------|
+| Week No.   | Month     | Day (Tue.) | Mon  | Tue            | Wed  | Fri  |      |
+| 1          | 2         | 26      |         | CD1            | EF1  | GH1  |      |
+| 2          | 3         | 5       | AB1     | CD2            | EF2  | GH2  |      |
+| 3          | 3         | 12      | AB2     | CD3            | EF3  | GH3  |      |
+| 4          | 3         | 19      | AB3     | CD4            | EF4  | GH4  |      |
+| 5          | 3         | 26      | AB4     | CD5            | EF5  | GH5  |      |
+| 6          | 4         | 2       | AB5     | CD6            | EF6  | GH6  |      |
+| No Class   | 4         | 9       | AB6     |                |      |      |      |
+| Midterm    | 4         | 15-19   |         |                |      |      |      |
+| 7          | 4         | 23      |         | CD7            | EF7  | GH7  |      |
+| 8          | 4         | 30      | AB7     | CD8            | EF8  | GH8  |      |
+| 9          | 5         | 7       | Holiday | CD9            | EF9  | GH9  |      |
+| No Class   | 5         | 14      | AB8     | No Lab         |      |      |      |
+| 10         | 5         | 21      | AB9     | CD10           | EF10 | GH10 |      |
+| 11         | 5         | 28      | AB10    |                |      |      |      |
+| No Class   | 6         | 4       |         |                |      |      |      |
+| Final Exam | 6         | Oct-14  |         |                |      |      |      |
 
 #### Section Z
 
