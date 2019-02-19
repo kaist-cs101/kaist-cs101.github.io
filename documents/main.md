@@ -7,6 +7,7 @@
 
 ### Documents
 - [Syllabus](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
+- [Syllabus for Section Z](https://cs101z.page.link/syllabus)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
@@ -22,7 +23,7 @@
 - Sections C & D: Prof. MyungCheol Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
 - Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.mailto:kim@gmail.com), 042-350-3543, E3-1 2434 
 - Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](mailto:geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
-- Section Z (special section): Prof. Junehwa Song, [junesong@cs.kaist.ac.kr](mailto:junesong@cs.kaist.ac.kr), 042-350-3546, E3-1 4432
+- Section Z (special section): Prof. Junehwa Song, [junesong@nclab.kaist.ac.kr](mailto:junesong@nclab.kaist.ac.kr), 042-350-3546, E3-1 4435
 
 ### Admin. Staff
 For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -73,15 +74,17 @@ You can register and learn the on-line CS101 lectures in KOOC
 CS101 grading consists of two parts: practice and theory.
  
 Practice points are collected as follows:
-• 100 points for lecture attendance
-• 100 points for lab work
-• 200 points for homework
+- 100 points for lecture attendance
+- 100 points for lab work
+- 200 points for homework
+
 Students need to collect at least 340 practice points. Only the students who scored 340~400 practice points are entitled to be graded. Students who did not earn 340 practice points receive a fail grade
  
 Theory points are collected as follows:
-• 100 points for midterm exam.
-• 100 points for final exam.
- The final score for CS101 is determined entirely by the theory points.
+- 100 points for midterm exam.
+- 100 points for final exam.
+
+The final score for CS101 is determined entirely by the theory points.
 
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming, and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
@@ -106,6 +109,8 @@ We will make use of the following freely available software: Python 3, PyCharm I
 We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
+
+#### Section A-H
 - Lecture Date & Time: Tuesday 10:30AM-12:30PM  (A,B,C,D,E,F,G,H)
 - Lecture Rooms: Creative Bldg. 101 (A & B), 203 (C & D), 301 (E & F), 303 (G & H) 
 - Lab. Dates & Times: 
@@ -117,9 +122,30 @@ We will also make use of the online programming education platform, Elice.
  
 - Lab. Room: Creative Bldg. 307, 308
 
-**For Section Z:**
+|           | Lecture |         | Lab |                |      |      | Homework |
+|-----------|-----------|---------|---------|----------------|------|------|------|
+| Week No. | Month        | Day (Tue.) | Mon      | Tue             | Wed   | Fri   |      |
+| 1         | 2         | 26      |         | CD1            | EF1  | GH1  |      |
+| 2         | 3         | 5       | AB1     | CD2            | EF2  | GH2  |      |
+| 3         | 3         | 12      | AB2     | CD3            | EF3  | GH3  |      |
+| 4         | 3         | 19      | AB3     | CD4            | EF4  | GH4  |      |
+| 5         | 3         | 26      | AB4     | CD5            | EF5  | GH5  |      |
+| 6         | 4         | 2       | AB5     | CD6            | EF6  | GH6  |      |
+| No Class  | 4         | 9       | AB6     |                |      |      |      |
+| Midterm  | 4         | 15-19   |         |                |      |      |      |
+| 7         | 4         | 23      |         | CD7            | EF7  | GH7  |      |
+| 8         | 4         | 30      | AB7     | CD8            | EF8  | GH8  |      |
+| 9         | 5         | 7       | Holiday    | CD9            | EF9  | GH9  |      |
+| No Class  | 5         | 14      | AB8     | No Lab |      |      |      |
+| 10        | 5         | 21      | AB9     | CD10           | EF10 | GH10 |      |
+| 11        | 5         | 28      | AB10    |                |      |      |      |
+| No Class  | 6         | 4       |         |                |      |      |      |
+| Final Exam  | 6         | Oct-14  |         |                |      |      |      |
 
+#### Section Z
+
+- You can enroll to this section via [KAIST Academic System](https://ssogw6.kaist.ac.kr/notice)
 - Date & Time:
     - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
-    - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 301 
+    - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 401 
 
