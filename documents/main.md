@@ -63,6 +63,8 @@ Students can register Section Z in the first week of 2019 Spring semester.  Note
 
 For more detail, please see the CS101 syllabus of Section Z.
 
+[Syllabus (Section Z)](https://cs101z.page.link/syllabus)
+
 ### (Optional) CS101 On-line Lectures in KOOC (Kaist massive Open Online Course)
 You can register and learn the on-line CS101 lectures in KOOC 
 -	[https://kooc.kaist.ac.kr/cs101](https://kooc.kaist.ac.kr/cs101)
