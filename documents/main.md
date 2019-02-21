@@ -9,7 +9,7 @@
 - [KAIST CS101 @ Elice (Sections A-H)](https://kaist.elice.io/courses/522)
 
 ### Documents
-- [Syllabus (Sections A-H)](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
+- [Syllabus (Sections A-H)](https://drive.google.com/open?id=1oK-QVTCw0MHfsMQvqGCcGY2A4j1IeXEy33GZtIot3ak)
 - [Syllabus (Section Z)](https://cs101z.page.link/syllabus)
 - [Lecture Notes (Sections A-H)](https://drive.google.com/drive/folders/15DGGT1DNuUxd28TJA2m8j3kkq5trOO6y?usp=sharing)
 
