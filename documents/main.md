@@ -5,6 +5,9 @@
 
 ## Links
 
+### Elice Course
+- [KAIST CS101 @ Elice (Sections A-H)](https://kaist.elice.io/courses/522)
+
 ### Documents
 - [Syllabus (Sections A-H)](https://drive.google.com/open?id=1y3IeaVYfbvOMj8-J6ur7KHMjX3W_5PYD)
 - [Syllabus (Section Z)](https://cs101z.page.link/syllabus)
