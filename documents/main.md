@@ -24,7 +24,7 @@
 
 ### Instructors
 - Sections A & B: Prof. KeeEung Kim, [kekim@cs.kaist.ac.kr](mailto:kekim@cs.kaist.ac.kr), 042-350-3536, E3-1 2402 
-- Sections C & D: Prof. MyungCheol Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
+- Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
 - Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.mailto:kim@gmail.com), 042-350-3543, E3-1 2434 
 - Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](mailto:geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
 - Section Z (special section): Prof. Junehwa Song, [junesong@nclab.kaist.ac.kr](mailto:junesong@nclab.kaist.ac.kr), 042-350-3546, E3-1 4435
