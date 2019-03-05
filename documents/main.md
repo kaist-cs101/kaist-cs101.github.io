@@ -137,3 +137,7 @@ We will also make use of the online programming education platform, Elice.
     - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
     - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 401 
 
+
+### Score Check Link
+- Lecture Attendance : [Link](https://drive.google.com/open?id=1TTlJO1KzvrQ3JdWbPTe8sT9Eae4ChtOACNc4mSBfNsg)
+- Lab Attendance : [Link](https://drive.google.com/open?id=1L9l7QGdBFRChZTeXdQrVVW_TzGvebrP9wj_8LpY-Deg)
