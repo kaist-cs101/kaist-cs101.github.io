@@ -12,7 +12,7 @@
 - [Syllabus (Sections A-H)](https://drive.google.com/open?id=1oK-QVTCw0MHfsMQvqGCcGY2A4j1IeXEy33GZtIot3ak)
 - [Syllabus (Section Z)](https://cs101z.page.link/syllabus)
 - [Lecture Notes (Sections A-H)](https://drive.google.com/drive/folders/15DGGT1DNuUxd28TJA2m8j3kkq5trOO6y?usp=sharing)
-
+- [Code Examples in the Lecture Notes (Sections A-H)](https://drive.google.com/open?id=1B73SqWdKqdv5tixJTONE243o4bZhur9y)
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
 - [Robot notes for CS101](/assets/files/robotnotes.pdf)
