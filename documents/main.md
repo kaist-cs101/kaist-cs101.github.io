@@ -137,6 +137,13 @@ We will also make use of the online programming education platform, Elice.
     - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
     - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 401 
 
+### Office Hour
+TA OH are appointment-based, and there will be sign up sheets!
+We welcome any questions including the following but not limited to:
+Lecture, lab, homework assignments, life, rabbits, etc.
+- OH Room : N1 ROOM 401
+- Time : 19:00 ~ 21:00 on days marked “OH” on the schedule
+- Appointment Link : [Link](https://docs.google.com/spreadsheets/d/197QvM44xLhlCofL-L_zW3DGJShHwu-llHqoJFBUyZ1s/edit?usp=sharing)
 
 ### Score Check Link
 - Lecture Attendance : [Link](https://drive.google.com/open?id=1TTlJO1KzvrQ3JdWbPTe8sT9Eae4ChtOACNc4mSBfNsg)
