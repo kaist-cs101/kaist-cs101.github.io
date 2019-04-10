@@ -145,6 +145,20 @@ Lecture, lab, homework assignments, life, rabbits, etc.
 - Time : 19:00 ~ 21:00 on days marked “OH” on the schedule
 - Appointment Link : [Link](https://docs.google.com/spreadsheets/d/197QvM44xLhlCofL-L_zW3DGJShHwu-llHqoJFBUyZ1s/edit?usp=sharing)
 
+### Exam
+
+|(Mid-term )|(Final Exam)	|(Exam Hours)	  |(Section)	|(Location)|	
+|-----------|-------------|---------------|-----------|----------|
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|A 		      | E11	101  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|B      		| E11	102  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|C 		      | E11	201  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|D 		      | E11	203  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|E 		      | E11	301  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|F 		      | E11	302  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|G 		      | E11	303  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|H 		      | E11	401  |
+|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|Z		      | E11	402  |
+
 ### Score Check Link
 - Lecture Attendance : [Link](https://drive.google.com/open?id=1TTlJO1KzvrQ3JdWbPTe8sT9Eae4ChtOACNc4mSBfNsg)
 - Lab Attendance : [Link](https://drive.google.com/open?id=1L9l7QGdBFRChZTeXdQrVVW_TzGvebrP9wj_8LpY-Deg)
