@@ -129,6 +129,7 @@ We will also make use of the online programming education platform, Elice.
 - Lab. Room: Creative Bldg. 307, 308
 
 -	**Schedule of CS101** : ([https://drive.google.com/open?id=17kplA69mk7ZB_1Vjvtuhj7yoY0Xu2aFz](https://drive.google.com/open?id=17kplA69mk7ZB_1Vjvtuhj7yoY0Xu2aFz).)
+- **Lecture 11's date of Class C, D is changed to June 4. Please check the schedule. Only Class C,D is changed. Other classes do not be changed.**
 
 #### Section Z
 
