@@ -164,6 +164,6 @@ Lecture, lab, homework assignments, life, rabbits, etc.
 - Lecture Attendance : [Link](https://drive.google.com/open?id=1TTlJO1KzvrQ3JdWbPTe8sT9Eae4ChtOACNc4mSBfNsg)
 - Lab Attendance : [Link](https://drive.google.com/open?id=1L9l7QGdBFRChZTeXdQrVVW_TzGvebrP9wj_8LpY-Deg)
 
-### Total Practice Points(2019.05.31 12:26)
+### Total Practice Points(2019.06.04 17:10)
 Up to Now, Total Practice Points do not include HW4 points. Lecture points of Class E and F will be changed because of Lecture 11.
 [Link](https://docs.google.com/spreadsheets/d/1IYOgDd8NXjh3rYdxOXhNoggvE1xSj_kJqKTBmhuFPxU/edit?usp=sharing)
