@@ -138,7 +138,7 @@ We don't run office hours.
 |04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|Z		      | E11	402  |
 
 ### Score Check Link(Will be updated)
-- Lecture Attendance : [Link]()
-- Lab Attendance : [Link]()
-- Midterm Score : [Link]()
-- Final Score : [Link]()
+- Lecture Attendance : [Link](https://drive.google.com/open?id=1RgblbkQN7GIZdf2N70A1DAtRKG7Nna5u7uQ-duMwoX4)
+- Lab Attendance : [Link](https://drive.google.com/open?id=1jrlevLRW09wbZp7eD7N1fTLzY-xPxIro1qXUXQdUnmo)
+- Midterm Score : [Link](https://drive.google.com/open?id=1c1LDjRhsQjFRmthytUjm74M11gIR9hhALS6KnKjcoA8)
+- Final Score : [Link](https://drive.google.com/open?id=1ypR14Nbn85JorDk0DRVO2JbTvlFBkFKf4cfN9Yso59U)
