@@ -24,7 +24,7 @@
 ### Instructors
 - Sections A & B: Prof. Inyoung Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
 - Sections C & D: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551, N1 902
-- Sections E & F: Prof. Sunghee Choi , [sunghee@kaist.ac.kr](moonzoo.mailto:sunghee@kaist.ac.kr), 042-350-3534, E3-1 3404 
+- Sections E & F: Prof. Sunghee Choi , [sunghee@kaist.ac.kr](mailto:sunghee@kaist.ac.kr), 042-350-3534, E3-1 3404 
 - Sections G & H: Prof. Sung-Ju Lee, [profsj@kaist.ac.kr](mailto:profsj@kaist.ac.kr), 042-350-3566, N1 706
 - Sections I & J: Prof. Sung Hyon Myaeng, [myaeng@kaist.ac.kr](mailto:myaeng@kaist.ac.kr), 042-350-3553, N1 604
 
