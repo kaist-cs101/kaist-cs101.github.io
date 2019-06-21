@@ -6,13 +6,12 @@
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice (Sections A-H)](https://kaist.elice.io/courses/522)
+- [KAIST CS101 @ Elice](https://kaist.elice.io/courses/522)
 
 ### Documents
-- [Syllabus (Sections A-H)](https://drive.google.com/open?id=1oK-QVTCw0MHfsMQvqGCcGY2A4j1IeXEy33GZtIot3ak)
-- [Syllabus (Section Z)](https://cs101z.page.link/syllabus)
-- [Lecture Notes (Sections A-H)](https://drive.google.com/drive/folders/15DGGT1DNuUxd28TJA2m8j3kkq5trOO6y?usp=sharing)
-- [Code Examples in the Lecture Notes (Sections A-H)](https://drive.google.com/open?id=1B73SqWdKqdv5tixJTONE243o4bZhur9y)
+- [Syllabus](https://drive.google.com/open?id=1F8sJmMOCNxcm92h4cu_uFLH-E6oOmmsO4MDelryc3QY)
+- [Lecture Notes](https://drive.google.com/open?id=1oPeY08kJPM51BMwDw-mrgYPace7Wfsk7)
+- [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1B73SqWdKqdv5tixJTONE243o4bZhur9y)
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
 - [Robot notes for CS101](/assets/files/robotnotes.pdf)
@@ -23,11 +22,11 @@
 ## Syllabus
 
 ### Instructors
-- Sections A & B: Prof. Kee-Eung Kim, [kekim@cs.kaist.ac.kr](mailto:kekim@cs.kaist.ac.kr), 042-350-3536, E3-1 3426 
-- Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552, N1 801
-- Sections E & F: Prof. Moonzoo Kim (*coordinator), [moonzoo.kim@gmail.com](moonzoo.mailto:kim@gmail.com), 042-350-3543, E3-1 2434 
-- Sections G & H: Prof. Geehyuk Lee, [geehyuklee@kaist.ac.kr](mailto:geehyuklee@kaist.ac.kr), 042-350-3557, N1 708
-- Section Z (special section): Prof. Junehwa Song, [junesong@nclab.kaist.ac.kr](mailto:junesong@nclab.kaist.ac.kr), 042-350-3546, E3-1 4435
+- Sections A & B: Prof. Inyoung Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
+- Sections C & D: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551, N1 902
+- Sections E & F: Prof. Sunghee Choi , [sunghee@kaist.ac.kr](moonzoo.mailto:sunghee@kaist.ac.kr), 042-350-3534, E3-1 3404 
+- Sections G & H: Prof. Sung-Ju Lee, [profsj@kaist.ac.kr](mailto:profsj@kaist.ac.kr), 042-350-3566, N1 706
+- Sections I & J: Prof. Sung Hyon Myaeng, [myaeng@kaist.ac.kr](mailto:myaeng@kaist.ac.kr), 042-350-3553, N1 604
 
 ### Admin. Staff
 For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -35,13 +34,13 @@ For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mai
 ### Teaching Assistants
 7-8 TAs will be assigned to each section
 
-### Head TAs 
+### Head TAs (TDB)
 - Representative Head TA: Minho Park, [pmh10401@gmail.com](mailto:pmh10401@gmail.com)
-- Sections A & C:  Sumin An, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Sections B & D:  Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
-- Sections E & G:  Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
-- Sections F & H:  KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Section Z (special section):  Youngjae Chang, [yjchang@nclab.kaist.ac.kr](mailto:yjchang@nclab.kaist.ac.kr)
+- Sections A & C: Sumin An, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Sections B & D: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Sections E & G: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
+- Sections F & H: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
+- Section I & J: Unassigned (TDB)
   
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -58,15 +57,6 @@ Students need to attend the lab session every week. One of the tasks done during
 There will also be four take-home assignments where you have to program slightly more complex tasks.
  
 Lab sessions will introduce students to pair programming.
-
-### Project-based Learning Section Z
-We have a project-based learning section Z which has different course structure and grading policy. Students in Section Z will learn by practicing programming and active discussion during class. This section will teach different course material and will be taught in Korean.  
-
-Students can register Section Z in the first week of 2019 Spring semester.  Note that Section Z is designed to teach students who do not have programming background. We highly recommend students to register Section Z and to involve in active learning.
-
-For more detail, please see the CS101 syllabus of Section Z.
-
-[Syllabus (Section Z)](https://cs101z.page.link/syllabus)
 
 ### (Optional) CS101 On-line Lectures in KOOC (Kaist massive Open Online Course)
 You can register and learn the on-line CS101 lectures in KOOC 
@@ -116,37 +106,24 @@ We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
 
-#### Section A-H
-- Lecture Date & Time: Tuesday 10:30AM-12:30PM  (A,B,C,D,E,F,G,H)
-- Lecture Rooms: Creative Bldg. 101 (A & B), 203 (C & D), 301 (E & F), 303 (G & H) 
+#### Section
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
+- Lecture Rooms: Creative Bldg. 101 (A & B), 102 (C & D), 201 (E & F), 202 (G & H), 203 (I & J)
 - Lab. Dates & Times: 
  
-|       | Mon   | Tue   | Wed   | Thu | Fri   |
-|-------|-------|-------|-------|-----|-------|
-| 9-12  | A & B |       | E & F |     | G & H |
-| 13-16 |       | C & D |       |     |       |
+|       | Mon   | Tue   | Wed   | Thu   | Fri   |
+|-------|-------|-------|-------|-------|-------|
+| 9-12  |       | C & D |       | G & H | I & J |
+| 13-16 | A & B |       | E & F |       |       |
  
-- Lab. Room: Creative Bldg. 307, 308
+- Lab. Room: Creative Bldg. 307(A, C, E, G, I), 308(B, D, F, H, J)
 
--	**Schedule of CS101** : ([https://drive.google.com/open?id=17kplA69mk7ZB_1Vjvtuhj7yoY0Xu2aFz](https://drive.google.com/open?id=17kplA69mk7ZB_1Vjvtuhj7yoY0Xu2aFz).)
-- **Lecture 11's date of Class E, F is changed to June 4. Please check the schedule. Only Class E,F is changed. Other classes do not be changed.**
-
-#### Section Z
-
-- You can enroll to this section via [KAIST Academic System](https://ssogw6.kaist.ac.kr/notice)
-- Date & Time:
-    - Monday  4:00 PM- 6:00 PM @ Creative Bldg 301
-    - Tuesday 9:30 AM- 12:30 AM @ Creative Bldg 401 
+-	**Schedule of CS101(Will be updated)** : 
 
 ### Office Hour
-TA OH are appointment-based, and there will be sign up sheets!
-We welcome any questions including the following but not limited to:
-Lecture, lab, homework assignments, life, rabbits, etc.
-- OH Room : N1 ROOM 401
-- Time : 19:00 ~ 21:00 on days marked “OH” on the schedule
-- Appointment Link : [Link](https://docs.google.com/spreadsheets/d/197QvM44xLhlCofL-L_zW3DGJShHwu-llHqoJFBUyZ1s/edit?usp=sharing)
+We don't run office hours.
 
-### Exam
+### Exam(Will be updated)
 
 |(Mid-term )|(Final Exam)	|(Exam Hours)	  |(Section)	|(Location)|	
 |-----------|-------------|---------------|-----------|----------|
@@ -160,10 +137,8 @@ Lecture, lab, homework assignments, life, rabbits, etc.
 |04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|H 		      | E11	401  |
 |04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|Z		      | E11	402  |
 
-### Score Check Link
-- Lecture Attendance : [Link](https://drive.google.com/open?id=1TTlJO1KzvrQ3JdWbPTe8sT9Eae4ChtOACNc4mSBfNsg)
-- Lab Attendance : [Link](https://drive.google.com/open?id=1L9l7QGdBFRChZTeXdQrVVW_TzGvebrP9wj_8LpY-Deg)
-
-### Total Practice Points(2019.06.04 17:10)
-Up to Now, Total Practice Points do not include HW4 points. Lecture points of Class E and F will be changed because of Lecture 11.
-[Link](https://docs.google.com/spreadsheets/d/1IYOgDd8NXjh3rYdxOXhNoggvE1xSj_kJqKTBmhuFPxU/edit?usp=sharing)
+### Score Check Link(Will be updated)
+- Lecture Attendance : [Link]()
+- Lab Attendance : [Link]()
+- Midterm Score : [Link]()
+- Final Score : [Link]()
