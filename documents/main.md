@@ -40,7 +40,7 @@ For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mai
 - Sections B & D: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
 - Sections E & G: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
 - Sections F & H: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Section I & J: Unassigned (TDB)
+- Section I & J: Unassigned
   
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -108,7 +108,7 @@ We will also make use of the online programming education platform, Elice.
 **[Schedule](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)**
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
+- Lecture Date & Time: Monday 10:30AM-12:30PM 
 - Lecture Rooms: Creative Bldg. 101 (A & B), 102 (C & D), 201 (E & F), 202 (G & H), 203 (I & J)
 - Lab. Dates & Times: 
  
