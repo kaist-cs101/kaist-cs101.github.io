@@ -22,7 +22,7 @@
 ## Syllabus
 
 ### Instructors
-- Sections A & B: Prof. Inyoung Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
+- Sections A & B: Prof. In-Young Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
 - Sections C & D: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551, N1 902
 - Sections E & F: Prof. Sunghee Choi , [sunghee@kaist.ac.kr](mailto:sunghee@kaist.ac.kr), 042-350-3534, E3-1 3404 
 - Sections G & H: Prof. Sung-Ju Lee, [profsj@kaist.ac.kr](mailto:profsj@kaist.ac.kr), 042-350-3566, N1 706
@@ -59,7 +59,7 @@ There will also be four take-home assignments where you have to program slightly
 Lab sessions will introduce students to pair programming.
 
 ### (Optional) CS101 On-line Lectures in KOOC (Kaist massive Open Online Course)
-You can register and learn the on-line CS101 lectures in KOOC 
+You can register and watch the on-line CS101 lectures in KOOC 
 -	[https://kooc.kaist.ac.kr/cs101](https://kooc.kaist.ac.kr/cs101)
     - The on-line CS101 lectures can help those who have difficulties in CS101
 -	The on-line lectures provide detailed visual explanations.
@@ -118,11 +118,6 @@ We will also make use of the online programming education platform, Elice.
 | 13-16 | A & B |       | E & F |       |       |
  
 - Lab. Room: Creative Bldg. 307(A, C, E, G, I), 308(B, D, F, H, J)
-
-
-
-### Office Hour
-We don't run office hours.
 
 ### Exam(Locations will be updated)
 
