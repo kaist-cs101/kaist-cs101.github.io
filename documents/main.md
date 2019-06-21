@@ -123,19 +123,20 @@ We will also make use of the online programming education platform, Elice.
 ### Office Hour
 We don't run office hours.
 
-### Exam(Will be updated)
+### Exam(Locations will be updated)
 
 |(Mid-term )|(Final Exam)	|(Exam Hours)	  |(Section)	|(Location)|	
 |-----------|-------------|---------------|-----------|----------|
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|A 		      | E11	101  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|B      		| E11	102  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|C 		      | E11	201  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|D 		      | E11	203  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|E 		      | E11	301  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|F 		      | E11	302  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|G 		      | E11	303  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|H 		      | E11	401  |
-|04.15(Mon)	|06.10(Mon)	  |19:00~21:45		|Z		      | E11	402  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|A 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|B      		| E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|C 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|D 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|E 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|F 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|G 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|H 		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|I		      | E11	  |
+|10.15(Mon)	|12.10(Mon)	  |19:00~20:45		|J		      | E11	  |
 
 ### Score Check Link(Will be updated)
 - Lecture Attendance : [Link](https://drive.google.com/open?id=1RgblbkQN7GIZdf2N70A1DAtRKG7Nna5u7uQ-duMwoX4)
