@@ -105,6 +105,7 @@ We will make use of the following freely available software: Python 3, PyCharm I
 We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
+**[Schedule](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)**
 
 #### Section
 - Lecture Date & Time: Tuesday 10:30AM-12:30PM 
@@ -118,7 +119,7 @@ We will also make use of the online programming education platform, Elice.
  
 - Lab. Room: Creative Bldg. 307(A, C, E, G, I), 308(B, D, F, H, J)
 
--	**Schedule of CS101(Will be updated)** : 
+
 
 ### Office Hour
 We don't run office hours.
