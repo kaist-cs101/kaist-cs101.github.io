@@ -9,9 +9,9 @@
 - [KAIST CS101 @ Elice](https://kaist.elice.io/courses/522)
 
 ### Documents
-- [Syllabus](https://drive.google.com/open?id=1F8sJmMOCNxcm92h4cu_uFLH-E6oOmmsO4MDelryc3QY)
+- [Syllabus](https://drive.google.com/open?id=1LNHjj_5lDknAr-1SNKiJMk8Le-CmY3Ox)
 - [Lecture Notes](https://drive.google.com/open?id=1oPeY08kJPM51BMwDw-mrgYPace7Wfsk7)
-- [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1B73SqWdKqdv5tixJTONE243o4bZhur9y)
+- [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
 - [Robot notes for CS101](/assets/files/robotnotes.pdf)
