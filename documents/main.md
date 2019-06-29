@@ -79,6 +79,7 @@ Students need to collect at least 340 practice points. Only the students who sco
 Theory points are collected as follows:
 - Midterm exam – 40%
 - Final exam – 60%
+
 The final score for CS101 is determined entirely by the theory points.
 
 ### Repeating students (Course retake policy)
