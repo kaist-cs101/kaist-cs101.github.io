@@ -82,12 +82,16 @@ Theory points are collected as follows:
 
 The final score for CS101 is determined entirely by the theory points.
 
+Cheating is strongly forbidden. 
+Cheating on homework or exams will give an F. 
+Both copier and source provider will obviously get F grade. 
+Note that if you look at other’s HW program code, it will be considered as cheating.
+
+
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming, and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
  
 All repeating students cannot receive a grade better than A- by KAIST policy (and this applies even to students who entered KAIST before 2007).
- 
-Cheating is strongly forbidden. Cheating on homework or exams will give an F. Both copier and source provider will obviously get F grade. Note that if you look at other’s HW program code, it will be considered as cheating.
   
 ### Literature
 CS101 uses the following materials:
