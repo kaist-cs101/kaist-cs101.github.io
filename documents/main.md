@@ -81,12 +81,16 @@ Theory points are collected as follows:
 - Final exam – 60%
 
 **The final score for CS101 is determined entirely by the theory points.**
+
 **You may get F if you failed to get enough theory points.**
+
 **The practice points over 340 are ONLY qualification for grading.**
 
-**Cheating is strongly forbidden. **
+**Cheating is strongly forbidden.**
+
 Cheating on homework or exams will give an F. 
-Both copier and source provider will obviously get F grade. 
+Both copier and source provider will obviously get F grade.
+
 **Note that if you look at other’s HW program code, it will be considered as cheating.**
 
 
