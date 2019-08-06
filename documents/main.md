@@ -6,12 +6,16 @@
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice](https://kaist.elice.io/courses/522)
+- [KAIST CS101 (2019 Fall) @ Elice](https://kaist.elice.io/courses/1675)
+
+### Schedule
+- [KAIST CS101 Schedule (2019 Fall)](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)
 
 ### Documents
 - [Syllabus](https://drive.google.com/open?id=1LNHjj_5lDknAr-1SNKiJMk8Le-CmY3Ox)
 - [Lecture Notes](https://drive.google.com/open?id=1oPeY08kJPM51BMwDw-mrgYPace7Wfsk7)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
+
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
 - [Robot notes for CS101](/assets/files/robotnotes.pdf)
@@ -116,7 +120,7 @@ We will make use of the following freely available software: Python 3, PyCharm I
 We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
-**[Schedule](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)**
+**[KAIST CS101 Schedule (2019 Fall)](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)**
 
 #### Section
 - Lecture Date & Time: Monday 10:30AM-12:30PM 
