@@ -12,7 +12,7 @@
 - [KAIST CS101 Schedule (2019 Fall)](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)
 
 ### Documents
-- [Syllabus](https://drive.google.com/open?id=1LNHjj_5lDknAr-1SNKiJMk8Le-CmY3Ox)
+- [Syllabus](https://drive.google.com/open?id=1zJPPhsGCIY6Fr-_vUMo282Eb9g8QtNYN)
 - [Lecture Notes](https://drive.google.com/open?id=1oPeY08kJPM51BMwDw-mrgYPace7Wfsk7)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
 
