@@ -14,6 +14,7 @@
 ### Documents
 - [Syllabus](https://drive.google.com/open?id=1zJPPhsGCIY6Fr-_vUMo282Eb9g8QtNYN)
 - [Lecture Notes](https://drive.google.com/open?id=1WthN54-yuMcBbLmGTODe8U6Kk4G_0_pb)
+- [Lab Notes](https://drive.google.com/open?id=1wL6akzOl7sTXVnEzimKZQmIDGYiky3HV)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
 
 ### Practice Materials
