@@ -41,8 +41,8 @@ For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mai
 
 ### Head TAs
 - Representative Head TA: Minho Park, [pmh10401@gmail.com](mailto:pmh10401@gmail.com)
-- Labs A & F: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs B & H: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr)
+- Labs A & H: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr)
+- Labs B & F: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
 - Labs C & J: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
 - Labs D & E: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr) 
 - Labs G & I: Sumin An, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
