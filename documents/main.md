@@ -151,7 +151,7 @@ We will also make use of the online programming education platform, Elice.
 |10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|J		      | E11	  |
 
 ### Score Check Link(Will be updated)
-- Lecture Attendance : [Link](https://drive.google.com/open?id=1RgblbkQN7GIZdf2N70A1DAtRKG7Nna5u7uQ-duMwoX4)
+- Lecture Attendance : [Link](https://drive.google.com/open?id=1f4X-g8-F0sDfI9fSyF_d9Y8mHV09Ip_e6p60FaEMmqo)
 - Lab Attendance : [Link](https://drive.google.com/open?id=1jrlevLRW09wbZp7eD7N1fTLzY-xPxIro1qXUXQdUnmo)
 - Midterm Score : [Link](https://drive.google.com/open?id=1c1LDjRhsQjFRmthytUjm74M11gIR9hhALS6KnKjcoA8)
 - Final Score : [Link](https://drive.google.com/open?id=1ypR14Nbn85JorDk0DRVO2JbTvlFBkFKf4cfN9Yso59U)
