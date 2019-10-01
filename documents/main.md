@@ -150,6 +150,9 @@ We will also make use of the online programming education platform, Elice.
 |10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|I		      | E11	  |
 |10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|J		      | E11	  |
 
+### Previous Exam
+- Link : [Link](https://drive.google.com/open?id=1xvkX5ugEHr4gSxFKQ-IQj_Z2R9Egsr47)
+
 ### Score Check Link(Will be updated)
 - Lecture Attendance : [Link](https://drive.google.com/open?id=1f4X-g8-F0sDfI9fSyF_d9Y8mHV09Ip_e6p60FaEMmqo)
 - Lab Attendance : [Link](https://drive.google.com/open?id=1jrlevLRW09wbZp7eD7N1fTLzY-xPxIro1qXUXQdUnmo)
