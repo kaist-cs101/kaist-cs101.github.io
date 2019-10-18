@@ -135,7 +135,7 @@ We will also make use of the online programming education platform, Elice.
  
 - Lab. Room: Creative Bldg. 307(A, C, E, G, I), 308(B, D, F, H, J)
 
-### Exam(Locations will be updated)
+### Exam
 
 |(Mid-term )|(Final Exam)	|(Exam Hours)	  |(Section)	|(Location)|	
 |-----------|-------------|---------------|-----------|----------|
