@@ -158,4 +158,4 @@ We will also make use of the online programming education platform, Elice.
 - Lab Attendance : [Link](https://drive.google.com/open?id=1jrlevLRW09wbZp7eD7N1fTLzY-xPxIro1qXUXQdUnmo)
 - Total Practice Points : [Link](https://docs.google.com/spreadsheets/d/1u3uYKNsj8X97mycmiwgs07zke05oJZRzYOtOFZZnuVU/edit?usp=sharing)
 - Midterm Score : Closed
-- Final Score : [Link](https://drive.google.com/open?id=1ypR14Nbn85JorDk0DRVO2JbTvlFBkFKf4cfN9Yso59U)
+- Final Score : Closed
