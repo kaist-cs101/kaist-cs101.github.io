@@ -30,7 +30,7 @@
 - Sections A & B: Prof. In-Young Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
 - Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552
 - Sections E & F: Prof. Jongmoon Baik , [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Sections G & H: Prof. Jinyoung Song
+- Sections G & H: Prof. Jinyoung Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr)
 - Sections I & J: Prof. Geehyuk Lee, [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350-3557
 
 ### Admin. Staff
@@ -128,7 +128,12 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 #### Section
 - Lecture Date & Time: Tuesday 10:30AM-12:30PM 
-- Lecture Rooms: Creative Bldg. TBD (A & B), TBD (C & D), TBD (E & F), TBD (G & H), TBD (I & J)
+- Lecture Rooms: Creative Bldg. 102 (A & B), 201 (C & D), 202 (E & F), 203 (G & H), 302 (I & J)
+
+| A & B | C & D | E & F | G & H | I & J |
+|-------|-------|-------|-------|-------|
+|  102  |  201  |  202  |  203  |  302  |
+
 - Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu   | Fri   |
