@@ -6,15 +6,15 @@
 ## Links
 
 ### Elice Course
-- [KAIST CS101 (2019 Fall) @ Elice](https://kaist.elice.io/courses/1675)
+- [KAIST CS101 (2020 Spring) @ Elice](https://kaist.elice.io/courses/1675)
 
 ### Schedule
-- [KAIST CS101 Schedule (2019 Fall)](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)
+- [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
 
 ### Documents
-- [Syllabus](https://drive.google.com/open?id=1zJPPhsGCIY6Fr-_vUMo282Eb9g8QtNYN)
-- [Lecture Notes](https://drive.google.com/open?id=1WthN54-yuMcBbLmGTODe8U6Kk4G_0_pb)
-- [Lab Notes](https://drive.google.com/open?id=1wL6akzOl7sTXVnEzimKZQmIDGYiky3HV)
+- [Syllabus](https://docs.google.com/document/d/12NvomPamTD6h9ylpxNx-2--HUg6oV5XuhAWh56MEGVk)
+- [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
+- [Lab Notes](https://drive.google.com/drive/folders/1rkn99PENbHb9krkpr0djhA85zoaP2cky)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
 
 ### Practice Materials
@@ -28,24 +28,24 @@
 
 ### Instructors
 - Sections A & B: Prof. In-Young Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
-- Sections C & D: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551, N1 902
-- Sections E & F: Prof. Sunghee Choi , [sunghee@kaist.ac.kr](mailto:sunghee@kaist.ac.kr), 042-350-3534, E3-1 3404 
-- Sections G & H: Prof. Sung-Ju Lee, [profsj@kaist.ac.kr](mailto:profsj@kaist.ac.kr), 042-350-3566, N1 706
-- Sections I & J: Prof. Sung Hyon Myaeng, [myaeng@kaist.ac.kr](mailto:myaeng@kaist.ac.kr), 042-350-3553, N1 604
+- Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552
+- Sections E & F: Prof. Jongmoon Baik , [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
+- Sections G & H: Prof. Jinyoung Song
+- Sections I & J: Prof. Geehyuk Lee, [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350-3557
 
 ### Admin. Staff
-For all admin. matters, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
+For all admin. matters for the School of Computing office, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
 
 ### Teaching Assistants
 7-8 TAs will be assigned to each section
 
 ### Head TAs
-- Representative Head TA: Minho Park, [pmh10401@gmail.com](mailto:pmh10401@gmail.com)
-- Labs A & H: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr)
-- Labs B & F: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs C & J: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
-- Labs D & E: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr) 
-- Labs G & I: Sumin An, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
+- Labs _ & _: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
+- Labs _ & _: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs _ & _: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
+- Labs _ & _: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
+- Labs _ & _: TBD
 
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -55,13 +55,18 @@ Starting from spring 2010, CS101 uses the programming language Python, a languag
  
 Python is not a toy. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The numerical Python library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
-CS101 consists of 9 sections of about 45 students each. Each section meets once a week for a three-hour lab session supervised by a head TA (a Ph.D. student), with some helper TA's around (undergraduate and master students). Two sections take one lecture together, which is once a week for 60~120 minutes.
- 
+**Sections and Lectures.** CS101 consists of 10 sections of about 45 students each. Two sections take one lecture together, which is once a week for 60~120 minutes. 
+
+**Lab Sessions.** Each section meets once a week for a three-hour lab session supervised by a head TA (a Ph.D. student), with some helper TA's around (undergraduate and master students). 
 Students need to attend the lab session every week. One of the tasks done during the lab has to be marked off by a TA, so that we know that you were there and did your best.
+Some of the lab sessions will introduce students how to do pair programming.
  
-There will also be four take-home assignments where you have to program slightly more complex tasks.
- 
-Lab sessions will introduce students to pair programming.
+**Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
+  
+**Elice.** We will also make use of the online programming education platform, Elice.
+
+**Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
+All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
 
 ### (Optional) CS101 On-line Lectures in KOOC (Kaist massive Open Online Course)
 You can register and watch the on-line CS101 lectures in KOOC 
@@ -117,45 +122,28 @@ The slides used in the lectures will also be available online, and there will be
  
 ### Software
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
-
-We will also make use of the online programming education platform, Elice.
  
 ### Lecture and Lab Schedule
-**[KAIST CS101 Schedule (2019 Fall)](https://drive.google.com/open?id=1EMg68R7UWfQAcGGKo5cO8E86zDOJ_G6SsRjeNHYsB-o)**
+**[KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)**
 
 #### Section
-- Lecture Date & Time: Monday 10:30AM-12:30PM 
-- Lecture Rooms: Creative Bldg. 101 (A & B), 102 (C & D), 201 (E & F), 202 (G & H), 203 (I & J)
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
+- Lecture Rooms: Creative Bldg. TBD (A & B), TBD (C & D), TBD (E & F), TBD (G & H), TBD (I & J)
 - Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu   | Fri   |
 |-------|-------|-------|-------|-------|-------|
-| 9-12  |       | C & D |       | G & H | I & J |
-| 13-16 | A & B |       | E & F |       |       |
+| 9-12  | A & B |       | E & F |       | I & J |
+| 13-16 |       | C & D |       | G & H |       |
  
 - Lab. Room: Creative Bldg. 307(A, C, E, G, I), 308(B, D, F, H, J)
 
 ### Exam
 
-|(Mid-term )|(Final Exam)	|(Exam Hours)	  |(Section)	|(Location)|	
-|-----------|-------------|---------------|-----------|----------|
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|A 		      | E11	101 |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|B      		| E11	102  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|C 		      | E11	103  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|D 		      | E11	201  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|E 		      | E11	202  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|F 		      | E11	203  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|G 		      | E11	301  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|H 		      | E11	302  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|I		      | E11	303  |
-|10.21(Mon)	|12.16(Mon)	  |19:00~20:45		|J		      | E11	304  |
-
-### Previous Exam
-- Link : [Link](https://drive.google.com/open?id=1xvkX5ugEHr4gSxFKQ-IQj_Z2R9Egsr47)
+TBD
 
 ### Score Check Link(Will be updated)
-- Lecture Attendance : [Link](https://drive.google.com/open?id=1f4X-g8-F0sDfI9fSyF_d9Y8mHV09Ip_e6p60FaEMmqo)
-- Lab Attendance : [Link](https://drive.google.com/open?id=1jrlevLRW09wbZp7eD7N1fTLzY-xPxIro1qXUXQdUnmo)
-- Total Practice Points : [Link](https://docs.google.com/spreadsheets/d/1u3uYKNsj8X97mycmiwgs07zke05oJZRzYOtOFZZnuVU/edit?usp=sharing)
-- Midterm Score : Closed
-- Final Score : Closed
+- Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
+- Lab Attendance : [Link](https://docs.google.com/spreadsheets/d/186yM-UnmlXJedxxHqlHKhoNym8W1v7J-xl7ig0DoJ2w)
+- Practice Points : [Link](https://docs.google.com/spreadsheets/d/1H5ZsfKpKkhezgOKG9hfIirbNyZz2aCbt2EPNqw06tEo)
+- Theory Points (Exame Score) : [Link](https://docs.google.com/spreadsheets/d/1IJvNS3rvFKF-Fz-haNlHyZhVVOlN5TeU6PhZba_n4jA)
