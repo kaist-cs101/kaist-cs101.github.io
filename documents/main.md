@@ -45,7 +45,7 @@ For all admin. matters for the School of Computing office, please contact Sangch
 - Labs _ & _: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
 - Labs _ & _: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
 - Labs _ & _: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
-- Labs _ & _: TBD
+- Labs _ & _: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
