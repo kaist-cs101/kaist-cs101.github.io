@@ -51,11 +51,8 @@
         var year = date.getFullYear();
         var month = date.getMonth() + 1;
         var season = 'Fall';
-        if (2 <= month && month <= 7) {
+        if (1 <= month && month <= 6) {
           season = 'Spring';
-        }
-        if (month == 1) {
-          year -= 1;
         }
         var semester = 'KAIST ' + season + ' ' + year;
         document.getElementById('semester').innerHTML = semester;
