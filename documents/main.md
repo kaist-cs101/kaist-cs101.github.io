@@ -87,8 +87,9 @@ Practice points are collected as follows:
 Students need to collect at least 340 practice points. Only the students who scored 340~400 practice points are entitled to be graded. Students who did not earn 340 practice points receive a fail grade
  
 Theory points are collected as follows:
-- Midterm exam – 40%
-- Final exam – 60%
+- Homework - 10%
+- Midterm exam - 40%
+- Final exam - 50%
 
 **The final score for CS101 is determined entirely by the theory points.**
 
