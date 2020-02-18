@@ -30,7 +30,7 @@
 - Sections A & B: Prof. In-Young Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
 - Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552
 - Sections E & F: Prof. Jongmoon Baik , [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Sections G & H: Prof. Jinyoung Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr)
+- Sections G & H: Prof. Jean Young Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr)
 - Sections I & J: Prof. Geehyuk Lee, [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350-3557
 
 ### Admin. Staff
@@ -41,11 +41,11 @@ For all admin. matters for the School of Computing office, please contact Sangch
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs C & F: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
+- Labs A & H: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
 - Labs B & I: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs C & F: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
 - Labs D & G: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
 - Labs E & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
-- Labs A & H: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
