@@ -12,7 +12,7 @@
 - [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
 
 ### Documents
-- [Syllabus](https://docs.google.com/document/d/12NvomPamTD6h9ylpxNx-2--HUg6oV5XuhAWh56MEGVk)
+- [Syllabus](https://drive.google.com/file/d/15vUIIV0GXxBJDm2MdtG-fwmHYdPNMaX-/view?usp=sharing)
 - [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
 - [Lab Notes](https://drive.google.com/drive/folders/1rkn99PENbHb9krkpr0djhA85zoaP2cky)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
