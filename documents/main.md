@@ -11,6 +11,9 @@
 ### Schedule
 - [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
 
+As the semester begins at 3/16 and there will be 2 weeks of cyber-education period due to COVID-19, the first class will be at 3/31.
+Please study by userself by using below documents until 3/31, even though the semester begins at 3/16.
+
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/15vUIIV0GXxBJDm2MdtG-fwmHYdPNMaX-/view?usp=sharing)
 - [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
