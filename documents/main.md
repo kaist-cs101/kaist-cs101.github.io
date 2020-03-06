@@ -3,10 +3,9 @@
 
 ---
 
-<strong>Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the web.
+### Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the web.
 
-We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule:
-[KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)</strong>
+### We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule: [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
 
 
 ## Links
