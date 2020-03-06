@@ -3,6 +3,12 @@
 
 ---
 
+<strong>Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the web.
+
+We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule:
+[KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)</strong>
+
+
 ## Links
 
 ### Elice Course
@@ -10,9 +16,6 @@
 
 ### Schedule
 - [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
-
-As the semester begins at 3/16 and there will be 2 weeks of cyber-education period due to COVID-19, the first class will be at 3/31.
-Please study by userself by using below documents until 3/31, even though the semester begins at 3/16.
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/15vUIIV0GXxBJDm2MdtG-fwmHYdPNMaX-/view?usp=sharing)
