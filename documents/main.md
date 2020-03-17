@@ -5,7 +5,9 @@
 
 #### [Announcement] Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the CS101 homepage. ([Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) at Coursera)
 
-#### We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule: [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
+#### [Announcement] We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule: [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
+
+#### [Announcement] Before the first class (March 31st), please check KLMS board and enroll to Elice platform. Every private announcement for the course will be uploaded on the Elice announcement board.[Elice CS101 2020 Spring](https://kaist.elice.io/courses/2808/)
 
 
 ## Links
