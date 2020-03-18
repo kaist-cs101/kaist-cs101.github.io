@@ -6,8 +6,8 @@
 #### [Announcement] Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the CS101 homepage. ([Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) at Coursera)
 
 #### [Online Lectures] 
-- Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice to join the online lecture.
-- Every students must attend the first class at March 31st for course introduction. But from the second lecture, students who prefer to take the lectures in Korean can replace the live Zoom lecture by the [KOOC CS101 course](https://kooc.kaist.ac.kr/cs101).
+- Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- All students must join the first lecture on March 31st via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
 - Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
 
 #### [Online Lab Sessions] 
