@@ -5,15 +5,22 @@
 
 #### [Announcement] Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the CS101 homepage. ([Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) at Coursera)
 
-#### [Announcement] We will start having our regular lectures and lab sessions from March 31st. Please check the course schedule: [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
+#### [Online Lectures] 
+- Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice to join the online lecture.
+- Every students must attend the first class at March 31st for course introduction. But from the second lecture, students who prefer to take the lectures in Korean can replace the live Zoom lecture by the [KOOC CS101 course](https://kooc.kaist.ac.kr/cs101).
+- Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
 
-#### [Announcement] Before the first class (March 31st), please check KLMS board and enroll to Elice platform. Every private announcement for the course will be uploaded on the Elice announcement board.[Elice CS101 2020 Spring](https://kaist.elice.io/courses/2808/)
+#### [Online Lab Sessions] 
+- At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
+- Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
+- Before March 31st, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system ([Elice CS101 2020 Spring](https://kaist.elice.io/courses/2808/)).
+- Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 (2020 Spring) @ Elice](https://kaist.elice.io/courses/1675)
+- [KAIST CS101 (2020 Spring) @ Elice](https://kaist.elice.io/courses/2808/)
 
 ### Schedule
 - [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
