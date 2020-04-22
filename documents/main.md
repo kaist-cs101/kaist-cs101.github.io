@@ -3,8 +3,6 @@
 
 ---
 
-#### [Announcement] Due to the Coronavirus outbreak, for the first two weeks, we will not have regular classes in the classrooms. Instead, please study the lecture and practice materials ahead by yourselves. You can also watch the KOOC and other online lectures about Python programming that are available on the CS101 homepage. ([Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python) at Coursera)
-
 #### [Online Lectures] 
 - Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
 - All students must join the first lecture on March 31st via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
@@ -161,10 +159,15 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 ### Exam
 
-TBD
+The midterm exam of CS101 will be held as an online programming exam from 5/4 6:30PM to 9PM. 
 
-### Score Check Link(Will be updated)
+Similar to the homeworks, a total of 1 quiz and 4 programming tasks will be given but only around 20 minutes will be allocated for each programming task. 
+
+Please refer Elice announcement for the details.
+
+### Score Check Link
 - Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
 - Lab Attendance : [Link](https://docs.google.com/spreadsheets/d/186yM-UnmlXJedxxHqlHKhoNym8W1v7J-xl7ig0DoJ2w)
+- Homework score : [Link](https://docs.google.com/spreadsheets/d/1-lg87V0SoitjZZkFMT-kLyJi-wizak1u5D3cWuD69HA)
 - Practice Points : [Link](https://docs.google.com/spreadsheets/d/1H5ZsfKpKkhezgOKG9hfIirbNyZz2aCbt2EPNqw06tEo)
 - Theory Points (Exame Score) : [Link](https://docs.google.com/spreadsheets/d/1IJvNS3rvFKF-Fz-haNlHyZhVVOlN5TeU6PhZba_n4jA)
