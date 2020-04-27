@@ -161,9 +161,22 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 The midterm exam of CS101 will be held as an online programming exam from 5/4 6:30PM to 9PM. 
 
-Similar to the homeworks, a total of 1 quiz and 4 programming tasks will be given but only around 20 minutes will be allocated for each programming task. 
+Similar to the homeworks, a total of 1 quiz and 4 programming tasks will be given but only around 20 minutes will be allocated for each programming task. Please note that you cannot revisit previous problems after the time limit of the problems has expired. For instance, after the time limit of Problem 1 expires, you cannot attempt Problem 1 anymore and will be forced to move to Problem 2.
 
-Please refer Elice announcement for the details.
+You must join your section’s Zoom session by using your smart-phone. You should turn on the camera of your phone and set the location of the phone where (1) you, (2) your Elice screen, and (3) your desk are all visible in Zoom. Videos may be recorded to avoid cheating. If you are not able to do this for some reason, please contact the head TA.
+
+TAs will check your ID card before the exam starts. Please show your ID card on the camera so TAs can verify your identity. If you want, you can hide personal information on the ID card except your photo, name, and ID number.
+If you don't have ID card because you have not visited KAIST, you may log-in to Portal > Academic system > Academic records > School registration and show your Academic registration info. Be careful not to show your Resident registration number.
+
+Before the actual exam starts, every student must submit honor code for the exam. Futhermore, you are guided to solve a dummy problem optionally. Hence, you can practice how the programming exam would be proceeded in this step.
+
+You can modify and try your code freely during time limit, but testcases for scoring and your score will be not shown.
+
+During the exam, you can access to: Elice (except chatting), Python official documents(https://www.python.org/doc/), Lecture notes, and your own notes from lectures. Any other materials (such as messengers) on your screen may be regarded as a cheating.
+
+Cheating is strongly prohibited. To reveal cheatings, we will run a plagiarism detection algorithm that measures similarity between codes, so every similar code will be regarded as a candidate of cheating.
+
+At 4/27 6:30PM, we will have a rehearsal. Students can also join the rehearsal in order to practice for the actual exam. Please come and join the rehearsal for the midterm.
 
 ### Score Check Link
 - Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
