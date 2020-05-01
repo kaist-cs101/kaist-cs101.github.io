@@ -3,6 +3,9 @@
 
 ---
 
+**CS101 lectures and lab sessions will be held continuously online by the end of the semester.**  
+**The midterm exam will be also held online as planned. Please check the detail instructions below.**
+
 #### [Online Lectures] 
 - Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
 - All students must join the first lecture on March 31st via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
@@ -157,7 +160,7 @@ We will make use of the following freely available software: Python 3, PyCharm I
 - Lab. Room: Creative Bldg. 307 (A, C, E, G, I), 308 (B, D, F, H, J)
 - Language: Korean (A, C, E, G, I), English (B, D, F, H, J)
 
-### Exam
+### Mid-term Exam
 
 The midterm exam of CS101 will be held as an online programming exam from 5/4 6:30PM to 9PM. 
 
@@ -177,6 +180,20 @@ During the exam, you can access to: Elice (except chatting), Python official doc
 Cheating is strongly prohibited. To reveal cheatings, we will run a plagiarism detection algorithm that measures similarity between codes, so every similar code will be regarded as a candidate of cheating.
 
 At 4/27 6:30PM, we will have a rehearsal. Students can also join the rehearsal in order to practice for the actual exam. Please come and join the rehearsal for the midterm.
+
+### Final Exam
+
+The CS101 final exam will be held either offline or online depending on the situation and according to the school’s guideline. The final grade of CS101 will be given as letter grades (A, B, C, D, F) for either of the cases.
+
+#### (1) Offline Final Exam
+
+If it is allowed to have offline exams, the CS101 students who will be at the campus by the time of the final exam can come to either the classrooms or programming laboratories to take the programming test via the Elice system. The students who own their laptop computer can come to the classrooms to take the final exam (programming test). Otherwise, the students should come to the programming laboratories to take the coding test. The students who cannot be at the campus by the time of the final exam should take the final exam online.
+
+#### (2) Online Final Exam
+
+If it is not allowed to have offline exams, the CS101 final exam will be held as an online programming test similar to the midterm exam. In case of having the final exam offline, the students who cannot be at the campus by the time of the final exam can still take the final exam online.
+
+The decision on the way of having the final exam will be announced a couple of weeks before the final.
 
 ### Score Check Link
 - Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
