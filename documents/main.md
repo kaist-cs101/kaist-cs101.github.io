@@ -208,4 +208,4 @@ The decision on the way of having the final exam will be announced a couple of w
 - Lab Attendance : [Link](https://docs.google.com/spreadsheets/d/186yM-UnmlXJedxxHqlHKhoNym8W1v7J-xl7ig0DoJ2w)
 - Homework score : [Link](https://docs.google.com/spreadsheets/d/1-lg87V0SoitjZZkFMT-kLyJi-wizak1u5D3cWuD69HA)
 - Practice Points : [Link](https://docs.google.com/spreadsheets/d/1H5ZsfKpKkhezgOKG9hfIirbNyZz2aCbt2EPNqw06tEo)
-- Theory Points (Exame Score) : [Link](https://docs.google.com/spreadsheets/d/1IJvNS3rvFKF-Fz-haNlHyZhVVOlN5TeU6PhZba_n4jA)
+- Theory Points (Exame Score) : Check on the Elice
