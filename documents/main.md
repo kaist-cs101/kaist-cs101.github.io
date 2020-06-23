@@ -191,17 +191,15 @@ Cheating is strongly prohibited. To reveal cheatings, we will run a plagiarism d
 
 ### Final Exam
 
-The CS101 final exam will be held either offline or online depending on the situation and according to the school’s guideline. The final grade of CS101 will be given as letter grades (A, B, C, D, F) for either of the cases.
+The CS101 final exam will be held online similar to the midterm. 
+The final grade of CS101 will be given as letter grades (A, B, C, D, F) or S/U grades selectively.
 
-#### (1) Offline Final Exam
+After the final exam, every student can select whether he or she will get letter grading or S/U grading.
+We will grade every student with letters first, and change the grades of students who select S/U grading.
+So, there will be no disadvantage of selecting letter grading.
 
-If it is allowed to have offline exams, the CS101 students who will be at the campus by the time of the final exam can come to either the classrooms or programming laboratories to take the programming test via the Elice system. The students who own their laptop computer can come to the classrooms to take the final exam (programming test). Otherwise, the students should come to the programming laboratories to take the coding test. The students who cannot be at the campus by the time of the final exam should take the final exam online.
-
-#### (2) Online Final Exam
-
-If it is not allowed to have offline exams, the CS101 final exam will be held as an online programming test similar to the midterm exam. In case of having the final exam offline, the students who cannot be at the campus by the time of the final exam can still take the final exam online.
-
-The decision on the way of having the final exam will be announced a couple of weeks before the final.
+For the students who select S/U grading, the students with letters higher than C- (A, B, C+, C0) will get S, and the others (C-, D, F) will get U.
+However, please note that the students who get F because of cheating will still get F, but the students who get F because of practice points will get U.
 
 ### Score Check Link
 - Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
