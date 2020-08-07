@@ -116,6 +116,8 @@ Both copier and source provider will obviously get F grade.
 
 **Note that if you look at other’s HW program code, it will be considered as cheating.**
 
+Every student may receive letter grades (A-F), but will be allowed to choose S/U grading afterward.
+
 ### Pass exam
 In the first week of the semester, we offer a "Pass Exam", which students who have already learnt programming can take to fulfill the CS101 requirement. 
 The pass exam consists of a 90 minutes written exam, followed by a 90 minutes programming exam. 
