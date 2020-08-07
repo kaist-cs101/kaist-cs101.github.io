@@ -3,31 +3,28 @@
 
 ---
 
-**CS101 lectures and lab sessions will be held continuously online by the end of the semester.**  
-**The midterm exam will be also held online as planned. Please check the detail instructions below.**
-
 #### [Online Lectures] 
-- Starting from March 31st, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
-- All students must join the first lecture on March 31st via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
+- Starting from September 7th, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- All students must join the first lecture on September 7th via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
 - Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
 
 #### [Online Lab Sessions] 
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before March 31st, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system ([Elice CS101 2020 Spring](https://kaist.elice.io/courses/2808/)).
+- Before September 7th, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system ([Elice CS101 2020 Fall](https://kaist.elice.io/courses/4782)).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 (2020 Spring) @ Elice](https://kaist.elice.io/courses/2808/)
+- [KAIST CS101 (2020 Fall) @ Elice](https://kaist.elice.io/courses/4782)
 
 ### Schedule
-- [KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)
+- [KAIST CS101 Schedule (2020 Fall)](https://docs.google.com/spreadsheets/d/1H809scoJvSspqC0ZxJ5JM0PZWvCKc1h46IMouCvGmQE/edit?usp=sharing)
 
 ### Documents
-- [Syllabus](https://drive.google.com/file/d/15vUIIV0GXxBJDm2MdtG-fwmHYdPNMaX-/view?usp=sharing)
+- [Syllabus](https://drive.google.com/file/d/1dfaowR6ZkEMVhy2sAEsTKSDFBRuLCqjn/view?usp=sharing)
 - [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
 - [Lab Notes](https://drive.google.com/drive/folders/1rkn99PENbHb9krkpr0djhA85zoaP2cky)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
@@ -42,11 +39,11 @@
 ## Syllabus
 
 ### Instructors
-- Sections A & B: Prof. In-Young Ko(*coordinator), [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr), 042-350-3547, N1 505 
-- Sections C & D: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552
-- Sections E & F: Prof. Jongmoon Baik , [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Sections G & H: Prof. Jean Young Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr)
-- Sections I & J: Prof. Geehyuk Lee, [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350-3557
+- Sections A & B: Prof. Yoon Joon Lee, [yoonjoon.lee@kaist.edu](mailto:yoonjoon.lee@kaist.edu), 010-3139-3523 
+- Sections C & D: Prof. Jinyoung Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr), 010-4245-6450
+- Sections E & F: Prof. Jongmoon Baik (*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
+- Sections G & H: Prof. Sunghee Choi, [sunghee@kaist.edu](mailto:sunghee@kaist.edu) 042-350-3534
+- Sections I & J: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -63,12 +60,12 @@ For all admin. matters for the School of Computing office, please contact Sangch
 - Labs E & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
 
 ### Course Objective
-The objective of CS101 is to teach programming skills and computational thinking. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
+The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
  
 ### Course Structure
-Starting from spring 2010, CS101 uses the programming language Python, a language that was designed to be easy to learn. Python is used by many universities world-wide for teaching introductory programming. It is free, open-source, and multi-platform.
+Starting from spring 2010, CS101 uses the programming language **Python**, a language that was designed to be easy to learn. Python is used by many universities world-wide for teaching introductory programming. It is free, open-source, and multi-platform.
  
-Python is not a toy. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The numerical Python library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
+_Python is not a toy_. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The _numerical Python_ library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
 **Sections and Lectures.** CS101 consists of 10 sections of about 45 students each. Two sections take one lecture together, which is once a week for 60~120 minutes. 
 
@@ -78,7 +75,7 @@ Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, Elice.
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/4782).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
@@ -119,6 +116,12 @@ Both copier and source provider will obviously get F grade.
 
 **Note that if you look at other’s HW program code, it will be considered as cheating.**
 
+### Pass exam
+In the first week of the semester, we offer a "Pass Exam", which students who have already learnt programming can take to fulfill the CS101 requirement. 
+The pass exam consists of a 90 minutes written exam, followed by a 90 minutes programming exam. 
+The written exam is closed book, and covers programming in Python as taught in CS101, but without the _cs1robots, cs1media, and cs1graphics_ modules. 
+The programming exam is open book (only printed material). You will use a computer in the lab room, but will have access only to the PyCharm or IDLE environment (no internet access). 
+If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score, or to give up the score and take the CS101 course.
 
 
 ### Repeating students (Course retake policy)
@@ -140,70 +143,33 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
  
 ### Lecture and Lab Schedule
-**[KAIST CS101 Schedule (2020 Spring)](https://docs.google.com/spreadsheets/d/1oqGPZXwMvrYzD65MKvt0Krgur9AlyjrYEO23HP-iVt8)**
+**[KAIST CS101 Schedule (2020 Fall)](https://docs.google.com/spreadsheets/d/1H809scoJvSspqC0ZxJ5JM0PZWvCKc1h46IMouCvGmQE/edit?usp=sharing)**
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
-- Lecture Rooms: Creative Bldg. 102 (A & B), 201 (C & D), 202 (E & F), 203 (G & H), 302 (I & J)
-
-| A & B | C & D | E & F | G & H | I & J |
-|-------|-------|-------|-------|-------|
-|  102  |  201  |  202  |  203  |  302  |
+- Lecture Date & Time: Monday 10:30AM-12:30PM 
+- Lecture Rooms: Online Zoom links will be announced on the Elice
 
 - Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu   | Fri   |
 |-------|-------|-------|-------|-------|-------|
-| 9-12  | A & B |       | E & F |       | I & J |
-| 13-16 |       | C & D |       | G & H |       |
+| 9-12  |       | C & D |       | G & H | I & J |
+| 13-16 | A & B |       | E & F |       |       |
  
-- Lab. Room: Creative Bldg. 307 (A, C, E, G, I), 308 (B, D, F, H, J)
-- Language: Korean (A, C, E, G, I), English (B, D, F, H, J)
+- Lab. Room: Online
+- Language: English
 
 ### Mid-term Exam
 
-The midterm exam of CS101 will be held as an online programming exam from 5/4 6PM to 9PM, following below schedule:
-
-6:00 ~ 6:30 Students may join Zoom for attendance/ID check and camera adjustments.
-6:30 ~ 6:45 TAs will give you introductive announcements for the exam.
-6:45 ~ 7:00 Submit honor code.
-7:00 ~ 9:00 Main exam
-
-Similar to the homeworks, a total of 1 set of quizzes and 4 programming tasks will be given and students have 120 minutes to solve the problems. 
-
-Coverage of the midterm is Lecture 1~5 and Homework 1~2.
-
-You must join your section’s Zoom session by using your smart-phone. You should turn on the camera of your phone and set the location of the phone where (1) your Elice screen, (2) you, and (3) your desk are all visible in Zoom. Videos may be recorded to avoid cheating. If you are not able to do this for some reason, please contact the head TA.
-You have to set your microphone on. You have to set your speaker before the exam starts to get TA's announcement. After TA's announcements end, you may set the volume to minimum. TAs will not disturb you by voice during the exam. Any conversation is not allowed during the exam.
-
-TAs will check your ID before the exam starts. Please show your ID card and your face sequentially on the camera so TAs can verify your identity. If you want, you can hide personal information on the ID card except your photo, name, and ID number.
-If you don't have ID card, you may log-in to Portal and show your name instead of ID card, as shown in attached image.
-
-Before the actual exam starts, every student must submit honor code for the exam. Futhermore, you are guided to solve a dummy problem optionally. Hence, you can practice how the programming exam would be proceeded in this step.
-
-You can modify and try your code freely during time limit, but testcases for scoring and your score will be not shown. But please do not press 'exam complete' button instead of submitting individual programming tasks.
-
-During the exam, you can access to: Elice (except chatting), Python official documents(https://www.python.org/doc/), Lecture notes, and your own notes from lectures.  So most of programs are allowed except the programs which you can make interaction to other person such as SNS, chatting, email.
-If you turn on such "interaction" programs unintentionally, please turn off it immediately and follow the TA's instruction if there's something.
-During the exam, only 1 monitor, 1 keyboard, 1 mouse, physical materials such as memo notes on papers are allowed. Other electronical devices such as tablet PC and dual monitor is not allowed.
-
-Cheating is strongly prohibited. To reveal cheatings, we will run a plagiarism detection algorithm that measures similarity between codes, so every similar code will be regarded as a candidate of cheating.
+TBD
 
 ### Final Exam
 
-The CS101 final exam will be held online similar to the midterm. 
-The final grade of CS101 will be given as letter grades (A, B, C, D, F) or S/U grades selectively.
-
-After the final exam, every student can select whether he or she will get letter grading or S/U grading.
-We will grade every student with letters first, and change the grades of students who select S/U grading.
-So, there will be no disadvantage of selecting letter grading.
-
-For the students who select S/U grading, the students with letters higher than C- (A, B, C+, C0) will get S, and the others (C-, D, F) will get U.
-However, please note that the students who get F because of cheating will still get F, but the students who get F because of practice points will get U.
+TBD
 
 ### Score Check Link
-- Lecture Attendance : [Link](https://docs.google.com/spreadsheets/d/1zV10AflTekp_e-pTsOHawrd-3mT02c8CtIbAZfYl6bo)
-- Lab Attendance : [Link](https://docs.google.com/spreadsheets/d/186yM-UnmlXJedxxHqlHKhoNym8W1v7J-xl7ig0DoJ2w)
-- Homework score : [Link](https://docs.google.com/spreadsheets/d/1-lg87V0SoitjZZkFMT-kLyJi-wizak1u5D3cWuD69HA)
-- Practice Points : [Link](https://docs.google.com/spreadsheets/d/1H5ZsfKpKkhezgOKG9hfIirbNyZz2aCbt2EPNqw06tEo)
-- Theory Points (Exame Score) : Check on the Elice
+- Lecture Attendance : TBD
+- Lab Attendance : TBD
+- Homework score : TBD
+- Practice Points : TBD
+- Theory Points (Exame Score) : TBD
