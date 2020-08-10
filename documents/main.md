@@ -124,6 +124,7 @@ The pass exam consists of a 90 minutes written exam, followed by a 90 minutes pr
 The written exam is closed book, and covers programming in Python as taught in CS101, but without the _cs1robots, cs1media, and cs1graphics_ modules. 
 The programming exam is open book (only printed material). You will use a computer in the lab room, but will have access only to the PyCharm or IDLE environment (no internet access). 
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score, or to give up the score and take the CS101 course.
+According to KAIST rule from ART, **only those who have never taken the CS101 can apply the waiver exam.**
 
 
 ### Repeating students (Course retake policy)
