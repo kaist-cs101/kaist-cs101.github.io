@@ -53,11 +53,11 @@ For all admin. matters for the School of Computing office, please contact Sangch
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs A & H: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs B & I: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Labs C & F: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr)
-- Labs D & G: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
-- Labs E & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
+- Labs A & E: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
+- Labs B & I: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr) 
+- Labs C & G: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
+- Labs D & H: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
+- Labs F & J: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -171,8 +171,8 @@ TBD
 TBD
 
 ### Score Check Link
-- Lecture Attendance : TBD
-- Lab Attendance : TBD
-- Homework score : TBD
-- Practice Points : TBD
+- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1GOWQNxP2AaN_AKwwcXhsv5WpJp-tvZt8tQO-hnLHHqY)
+- [Lab Attendance](https://docs.google.com/spreadsheets/d/1RJFUpMzKpXrZQfTAOv7Gl7cHERaUanxZXXAz_egWN-8)
+- [Homework score](https://docs.google.com/spreadsheets/d/1tUPy_cnctSiP7wk5OgutM2nqh4GkT3KurckWJEcu3ko)
+- [Practice Points](https://docs.google.com/spreadsheets/d/1WFxy3u5U4L6FGlEthde4G7stgYX9h-ptvdgS02D9lAo)
 - Theory Points (Exame Score) : TBD
