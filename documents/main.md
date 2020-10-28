@@ -175,4 +175,4 @@ TBD
 - [Lab Attendance](https://docs.google.com/spreadsheets/d/1RJFUpMzKpXrZQfTAOv7Gl7cHERaUanxZXXAz_egWN-8)
 - [Homework score](https://docs.google.com/spreadsheets/d/1tUPy_cnctSiP7wk5OgutM2nqh4GkT3KurckWJEcu3ko)
 - [Practice Points](https://docs.google.com/spreadsheets/d/1WFxy3u5U4L6FGlEthde4G7stgYX9h-ptvdgS02D9lAo)
-- Theory Points (Exame Score) : TBD
+- [Theory Points](https://docs.google.com/spreadsheets/d/16J2jxqHSgc3H0W46pJzP2pnYQ4zFQUWWnXxAjH3Aog8)
