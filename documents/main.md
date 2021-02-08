@@ -4,27 +4,27 @@
 ---
 
 #### [Online Lectures] 
-- Starting from September 7th, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
-- All students must join the first lecture on September 7th via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
+- Starting from March 2nd, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- All students must join the first lecture on March 2nd via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
 - Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
 
 #### [Online Lab Sessions] 
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before September 7th, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system ([Elice CS101 2020 Fall](https://kaist.elice.io/courses/4782)).
+- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2021 Spring)](https://kaist.elice.io/courses/7951/).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 (2020 Fall) @ Elice](https://kaist.elice.io/courses/4782)
+- [KAIST CS101 @ Elice (2021 Spring)](https://kaist.elice.io/courses/7951/)
 
 ### Schedule
-- [KAIST CS101 Schedule (2020 Fall)](https://docs.google.com/spreadsheets/d/1H809scoJvSspqC0ZxJ5JM0PZWvCKc1h46IMouCvGmQE/edit?usp=sharing)
+- [KAIST CS101 Schedule (2021 Spring)](https://docs.google.com/spreadsheets/d/1F9A39fVQP7Z81900BDGGD7-N_aFthhQZou3J7y0YZmI/edit#gid=8)
 
 ### Documents
-- [Syllabus](https://drive.google.com/file/d/1dfaowR6ZkEMVhy2sAEsTKSDFBRuLCqjn/view?usp=sharing)
+- [Syllabus](https://drive.google.com/file/d/1Gr_NLxJL6W_kh6rnRmfbz21MF1_M3lVp/view?usp=sharing)
 - [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
 - [Lab Notes](https://drive.google.com/drive/folders/1rkn99PENbHb9krkpr0djhA85zoaP2cky)
 - [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
@@ -39,11 +39,11 @@
 ## Syllabus
 
 ### Instructors
-- Sections A & B: Prof. Yoon Joon Lee, [yoonjoon.lee@kaist.edu](mailto:yoonjoon.lee@kaist.edu), 010-3139-3523 
-- Sections C & D: Prof. Jinyoung Song, [jyskwon@kaist.ac.kr](mailto:jyskwon@kaist.ac.kr), 010-4245-6450
-- Sections E & F: Prof. Jongmoon Baik (*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Sections G & H: Prof. Sunghee Choi, [sunghee@kaist.edu](mailto:sunghee@kaist.edu) 042-350-3534
-- Sections I & J: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551
+- Sections A & B: Prof. Myungchul Kim, [mck@kaist.ac.kr](mailto:mck@kaist.ac.kr), 042-350-3552
+- Sections C & D: Prof. Min H. Kim, [minhkim@vclab.kaist.ac.kr](mailto:minhkim@vclab.kaist.ac.kr), 042-350-3564
+- Sections E & F: Prof. Jongmoon Baik (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
+- Sections G & H: Prof. Shin Yoo, [shin.yoo@kaist.ac.kr](mailto:shin.yoo@kaist.ac.kr), 042-350-3567 
+- Sections I & J: Prof. Key-Sun Choi, [kschoi@kaist.edu](mailto:kschoi@kaist.edu), 042-350-3525
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -75,7 +75,7 @@ Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/4782).
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/7951).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
@@ -146,18 +146,18 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
  
 ### Lecture and Lab Schedule
-**[KAIST CS101 Schedule (2020 Fall)](https://docs.google.com/spreadsheets/d/1H809scoJvSspqC0ZxJ5JM0PZWvCKc1h46IMouCvGmQE/edit?usp=sharing)**
+**[KAIST CS101 Schedule (2021 Spring)](https://docs.google.com/spreadsheets/d/1F9A39fVQP7Z81900BDGGD7-N_aFthhQZou3J7y0YZmI/edit#gid=8)**
 
 #### Section
-- Lecture Date & Time: Monday 10:30AM-12:30PM 
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
 - Lecture Rooms: Online Zoom links will be announced on the Elice
 
 - Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu   | Fri   |
 |-------|-------|-------|-------|-------|-------|
-| 9-12  |       | C & D |       | G & H | I & J |
-| 13-16 | A & B |       | E & F |       |       |
+| 9-12  | A & B |       | E & F |       | I & J |
+| 13-16 |       | C & D |       | G & H |       |
  
 - Lab. Room: Online
 - Language: English
@@ -171,8 +171,8 @@ TBD
 TBD
 
 ### Score Check Link
-- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1GOWQNxP2AaN_AKwwcXhsv5WpJp-tvZt8tQO-hnLHHqY)
-- [Lab Attendance](https://docs.google.com/spreadsheets/d/1RJFUpMzKpXrZQfTAOv7Gl7cHERaUanxZXXAz_egWN-8)
-- [Homework score](https://docs.google.com/spreadsheets/d/1tUPy_cnctSiP7wk5OgutM2nqh4GkT3KurckWJEcu3ko)
-- [Practice Points](https://docs.google.com/spreadsheets/d/1WFxy3u5U4L6FGlEthde4G7stgYX9h-ptvdgS02D9lAo)
-- [Theory Points](https://docs.google.com/spreadsheets/d/16J2jxqHSgc3H0W46pJzP2pnYQ4zFQUWWnXxAjH3Aog8)
+- Lecture Attendance: TBD
+- Lab Attendance: TBD
+- Homework score: TBD
+- Practice Points: TBD
+- Theory Points: TBD
