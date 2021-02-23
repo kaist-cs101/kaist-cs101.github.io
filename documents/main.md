@@ -118,11 +118,10 @@ Both copier and source provider will obviously get F grade.
 
 Every student may receive letter grades (A-F), but will be allowed to choose S/U grading afterward.
 
-### Pass exam
-In the first week of the semester, we offer a "Pass Exam", which students who have already learnt programming can take to fulfill the CS101 requirement. 
-The pass exam consists of a 90 minutes written exam, followed by a 90 minutes programming exam. 
-The written exam is closed book, and covers programming in Python as taught in CS101, but without the _cs1robots, cs1media, and cs1graphics_ modules. 
-The programming exam is open book (only printed material). You will use a computer in the lab room, but will have access only to the PyCharm or IDLE environment (no internet access). 
+### Waiver exam
+In the first or the second week of the semester, we offer a "Waiver Exam", which students who have already learnt programming can take to fulfill the CS101 requirement. 
+The exam will be 120 minutes of on-line programming, by using Elice platform. 
+For the exam, you may refer lecture notes and simple Internet search, but you should not use any communicating software such as mail or messengers. 
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score, or to give up the score and take the CS101 course.
 According to KAIST rule from ART, **only those who have never taken the CS101 can apply the waiver exam.**
 
