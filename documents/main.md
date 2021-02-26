@@ -46,7 +46,7 @@
 - Sections I & J: Prof. Key-Sun Choi, [kschoi@kaist.edu](mailto:kschoi@kaist.edu), 042-350-3525
 
 ### Admin. Staff
-For all admin. matters for the School of Computing office, please contact Sangchul Jung, [topcheol@kaist.ac.kr](mailto:topcheol@kaist.ac.kr), 042-350-3505, E3-1 1402
+For all admin. matters for the School of Computing office, please contact HoiSung, Roh, [hs-roh@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
 
 ### Teaching Assistants
 7-8 TAs will be assigned to each section
