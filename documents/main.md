@@ -53,11 +53,11 @@ For all admin. matters for the School of Computing office, please contact HoiSun
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs A & E: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr) 
-- Labs B & I: Jeongmin Byun, [jmbyun@kaist.ac.kr](mailto:jmbyun@kaist.ac.kr) 
-- Labs C & G: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
-- Labs D & H: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs F & J: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs A & B: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
+- Labs C & D: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
+- Labs E & F: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs G & H: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Labs I & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
 
 ### Course Objective
 The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -170,8 +170,8 @@ TBD
 TBD
 
 ### Score Check Link
-- Lecture Attendance: TBD
-- Lab Attendance: TBD
+- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1fQ7DucfxP6j4VczbU3AfEvijbBhMfyYVQiz1w_zNqAI/edit?usp=sharing)
+- [Lab Attendance](https://docs.google.com/spreadsheets/d/1nzdCMq8iZilWBMkBVfJuihACEnkwWBuf37HbW1AehrY/edit?usp=sharing)
 - Homework score: TBD
 - Practice Points: TBD
 - Theory Points: TBD
