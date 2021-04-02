@@ -163,7 +163,47 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 ### Mid-term Exam
 
-TBD
+2021 Spring semester CS101 midterm exam would be done as an online programming exam at 2021.4.19 Mon 6:30PM.
+
+Instructions & section assignments: https://docs.google.com/spreadsheets/d/1jJf2VgWJWspZLEYSzoEdq6xu66F_wzZsEQwWyweWTJU/edit?usp=sharing
+
+Schedule
+
+- 6:30 ~ 6:45 Access Elice, camera adjustment
+- 6:45 ~ 7:00 Introduction
+- 7:00 ~ 9:00 Main exam (We will check your ID and attendance during the exam)
+
+Problems: 5 quizes, 4 programming tasks
+
+Coverage: Lecture 1~6, homework 1~2 (whatever you have learned before the exam)
+
+Screen/face sharing
+
+During the exam, students should share there PC screen and face on the camera by accessing appropriate Elice page following the TAs' instructions, and it will be shown to only the TAs in charge.
+For the students who have no camera on the PC, we will provide Zoom session.
+
+How to use screen/face sharing feature of Elice:
+
+(1) On the lecture list, go to the 'Midterm' and Start it.
+(2) After you start, it will show the exam setup instructions. Check and proceed to next. You should be aware of the 'server time' and 'local time' would be slightly different, so please be careful with your time management.
+(3) Select the Exam room according to your section assignment, and proceed to next.
+(4) Turn on your camera and screen sharing, and proceed to next. Shared videos will be recorded to prevent cheating.
+(5) You will see the instructions again, please check and wait until 7PM.
+(6) Problems will be open from exactly 7PM. Do not refresh the page at 7PM, simply go into the problem and solve it.
+
+Etc.
+
+- While you are waiting for the exam to be started, TA may ask you to show your ID card or portal login page.
+- Please be sure that you should 'submit' your code rather than simply 'run' it.
+- No questions are allowed during the exam, but please use Ask Help button if you have urgent one.
+- Shared screen/face may be recorded to reveal cheating, and it will be deleted right after we check it.
+- It is allowed to utilize materials on Elice, Python official documentations, lecture notes, personal notes, simple googling, most of other features except the messengers that might be regarded as cheating.
+- Local IDEs such as PyCharm and IDLE are allowed, but we recommend you to use Elice to avoid the environment-problems, while grading will be done in Elice.
+
+Rehearsal
+
+We will do rehearsal of the midterm exam at 4/15 Thursday from 6:30PM to 7:10PM.
+Please come and join the practice to avoid any exceptions at the midterm.
 
 ### Final Exam
 
@@ -172,6 +212,6 @@ TBD
 ### Score Check Link
 - [Lecture Attendance](https://docs.google.com/spreadsheets/d/1fQ7DucfxP6j4VczbU3AfEvijbBhMfyYVQiz1w_zNqAI/edit?usp=sharing)
 - [Lab Attendance](https://docs.google.com/spreadsheets/d/1nzdCMq8iZilWBMkBVfJuihACEnkwWBuf37HbW1AehrY/edit?usp=sharing)
-- Homework score: TBD
-- Practice Points: TBD
-- Theory Points: TBD
+- [Homework score](https://docs.google.com/spreadsheets/d/1MBHwn1Ye3HwGplsXqZ8Em7LGCSqmDlbXz_NPu-_xYLs/edit?usp=sharing)
+- [Practice Points](https://docs.google.com/spreadsheets/d/1rT9zZQ6b8px7wvxujUt34VNR6rZkJ45HZoldZKlD_qQ/edit?usp=sharing)
+- [Theory Points](https://docs.google.com/spreadsheets/d/1Ngu4xJPdtX_C8UW_r5is6znESkpCQwGm1AnclVw6QyE/edit?usp=sharing)
