@@ -11,14 +11,14 @@
 #### [Online Lab Sessions] 
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2021 Spring)](https://kaist.elice.io/courses/7951/).
+- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2021 Fall)](https://kaist.elice.io/courses/13700).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice (2021 Spring)](https://kaist.elice.io/courses/7951/)
+- [KAIST CS101 @ Elice (2021 Fall)](https://kaist.elice.io/courses/13700)
 
 ### Schedule
 - [KAIST CS101 Schedule (2021 Fall)](https://docs.google.com/spreadsheets/d/1Dgq6QcL-F0FrjkpItRgt3kHLOjhTu9394PmdVtKd6rE/edit?usp=sharing)
@@ -51,11 +51,11 @@ For all admin. matters for the School of Computing office, please contact HoiSun
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs A & B: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
-- Labs C & D: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs E & F: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Labs G & H: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
-- Labs I & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
+- Labs A & B: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Labs D & E: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs H & I: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
+- Labs F & G: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
+- Labs C & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
 
 ### Course Objective
 The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -73,7 +73,7 @@ Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/7951).
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/13700).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
