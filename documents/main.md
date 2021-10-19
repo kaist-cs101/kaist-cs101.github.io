@@ -168,4 +168,4 @@ TBD
 - [Lab Attendance](https://docs.google.com/spreadsheets/d/1b67DNsfNaU0u6F6XqOWFbUwXHjHKx9TfEZPoRX7iSRw/edit?usp=sharing)
 - [Homework score](https://docs.google.com/spreadsheets/d/1YHvxDeKSoPSrE2UWQ8vb80nZwzT9PGQaHb3uWA8ZqIw/edit?usp=sharing)
 - [Practice Points](https://docs.google.com/spreadsheets/d/1EwzPldyNMTc3RT63-TFiJCDBxL50Hndsai4PpgshJ2I/edit?usp=sharing)
-- [Theory Points] TBD
+- [Theory Points](https://docs.google.com/spreadsheets/d/1u5jeGSFzG4fQ3y0u9EIfHdrGbWiaA1B_xR0witdMWuM/edit?usp=sharing)
