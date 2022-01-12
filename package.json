@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "bulma": "^0.7.4",
-    "markdown-it": "^8.4.2"
+    "markdown-it": "^12.3.2"
   }
 }
