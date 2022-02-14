@@ -4,24 +4,25 @@
 ---
 
 #### [Online Lectures] 
-- Starting from March 2nd, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
-- All students must join the first lecture on March 2nd via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
+- Starting from March 8th, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- All students must join the first lecture on March 8th via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
 - Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
 
-#### [Online Lab Sessions] 
+#### [Online and Offline Lab Sessions] 
+- You can join lab sessions online or offline (at E11 Creative Learning building 창의학습관)
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2021 Fall)](https://kaist.elice.io/courses/13700).
+- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Spring)]https://kaist.elice.io/courses/20213).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice (2021 Fall)](https://kaist.elice.io/courses/13700)
+- [KAIST CS101 @ Elice (2022 Spring)](https://kaist.elice.io/courses/20213)
 
 ### Schedule
-- [KAIST CS101 Schedule (2021 Fall)](https://docs.google.com/spreadsheets/d/1Dgq6QcL-F0FrjkpItRgt3kHLOjhTu9394PmdVtKd6rE/edit?usp=sharing)
+- [KAIST CS101 Schedule (2022 Spring)](https://docs.google.com/spreadsheets/d/1dLNDKLvSGfehwwVoznI5WRIUz9SO9xRQ5zEyMCE2XcE/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/1Gr_NLxJL6W_kh6rnRmfbz21MF1_M3lVp/view?usp=sharing)
@@ -38,10 +39,8 @@
 
 ## Syllabus
 
-### Instructors
-- Sections A & B & C    : Prof. Jongmoon Baik (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Sections D & E & F & G: Prof. Daeyoung Kim, [kimd@kaist.ac.kr](mailto:kimd@kaist.ac.kr), 042-350-3551
-- Sections H & I & J    : Prof. Key-Sun Choi, [kschoi@kaist.edu](mailto:kschoi@kaist.edu), 042-350-3525
+### Instructor
+- Prof. Min H. Kim (\*coordinator), [minhkim@vclab.kaist.ac.kr](mailto:minhkim@vclab.kaist.ac.kr), 042-350-7864
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please contact HoiSung, Roh, [hs-roh@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -51,11 +50,11 @@ For all admin. matters for the School of Computing office, please contact HoiSun
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs A & B: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
-- Labs D & E: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Labs H & I: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs F & G: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
-- Labs C & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
+- Labs A & F: Sumin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs B & I: Kyuho Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
+- Labs C & H: Changmin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Labs D & G: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
+- Labs E & J: Taesik Gong, [taesik.gong@kaist.ac.kr](mailto:taesik.gong@kaist.ac.kr) 
 
 ### Course Objective
 The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -142,17 +141,17 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Monday 10:30AM-12:30PM 
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
 - Lecture Rooms: Online Zoom links will be announced on the Elice
 
 - Lab. Dates & Times: 
  
 |       | Mon   | Tue   | Wed   | Thu   | Fri   |
 |-------|-------|-------|-------|-------|-------|
-| 9-12  |       | D & E |       | F & G | C & J |
-| 13-16 | A & B |       | H & I |       |       |
+| 9-12  | A & B |       | E & F |       | I & J |
+| 13-16 |       | C & D |       | G & H |       |
  
-- Lab. Room: Online
+- Lab. Room: Online and Offline E11 Creative Learning building (창의학습관) 307: A, C, E, G, I / 308: B, D, F, H, J
 - Language: English
 
 ### Mid-term Exam
@@ -164,8 +163,8 @@ TBD
 TBD
 
 ### Score Check Link
-- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1Tb0W16-Wu1QbLsQt2fXwrkT1juCxmVfR_STKBczwZas/edit?usp=sharing)
-- [Lab Attendance](https://docs.google.com/spreadsheets/d/1b67DNsfNaU0u6F6XqOWFbUwXHjHKx9TfEZPoRX7iSRw/edit?usp=sharing)
-- [Homework score](https://docs.google.com/spreadsheets/d/1YHvxDeKSoPSrE2UWQ8vb80nZwzT9PGQaHb3uWA8ZqIw/edit?usp=sharing)
-- [Practice Points](https://docs.google.com/spreadsheets/d/1EwzPldyNMTc3RT63-TFiJCDBxL50Hndsai4PpgshJ2I/edit?usp=sharing)
-- [Theory Points](https://docs.google.com/spreadsheets/d/1u5jeGSFzG4fQ3y0u9EIfHdrGbWiaA1B_xR0witdMWuM/edit?usp=sharing)
+- Lecture Attendance(TBD)
+- Lab Attendance(TBD)
+- Homework score(TBD)
+- Practice Points(TBD)
+- Theory Points(TBD)
