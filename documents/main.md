@@ -12,7 +12,7 @@
 - You can join lab sessions online or offline (at E11 Creative Learning building 창의학습관)
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Spring)]https://kaist.elice.io/courses/20213).
+- Before March 2nd, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Spring)](https://kaist.elice.io/courses/20213).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
