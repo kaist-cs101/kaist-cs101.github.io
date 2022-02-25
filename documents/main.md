@@ -146,10 +146,10 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 - Lab. Dates & Times: 
  
-|       | Mon   | Tue   | Wed   | Thu   | Fri   |
-|-------|-------|-------|-------|-------|-------|
-| 9-12  | A & B |       | E & F |       | I & J |
-| 13-16 |       | C & D |       | G & H |       |
+|               | Mon   | Tue   | Wed   | Thu   | Fri   |
+|---------------|-------|-------|-------|-------|-------|
+|  9:00 - 11:45 | A & B |       | E & F |       | I & J |
+| 13:00 - 15:45 |       | C & D |       | G & H |       |
  
 - Lab. Room: Online
 - Language: English
