@@ -113,7 +113,7 @@ Both copier and source provider will obviously get F grade.
 
 **Note that if you look at other’s HW program code, it will be considered as cheating.**
 
-Every student may receive letter grades (A-F), but will be allowed to choose S/U grading afterward.
+Every student will receive letter grades (A-F).
 
 ### Waiver exam
 In the first or the second week of the semester, we offer a "Waiver Exam", which students who have already learnt programming can take to fulfill the CS101 requirement. 
