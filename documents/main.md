@@ -4,25 +4,25 @@
 ---
 
 #### [Online Lectures] 
-- Starting from March 8th, there will be a live, online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
-- All students must join the first lecture on March 8th via Zoom. Starting from the second lecture, students who prefer to take the lectures in Korean can enroll for the KOOC CS101 course that is available at https://kooc.kaist.ac.kr/cs101 instead of joining the Zoom lectures.
-- Your attendance will be checked when you join the live Zoom lecture on the lecture day or finish watching the KOOC lecture by 12:30pm on the lecture day.
+- Starting from August 29th, there will be a live online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- Your attendance will be checked when you join the live Zoom lecture.
 
 #### [Online and Offline Lab Sessions] 
-- You can join lab sessions online only.
+- Students must join lab sessions offline at Creative Learning Building (E11).
+- Students who cannot join lab session offline may join online with TA's permission.
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
-- Then, the students should do the programming practice online with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Before March 8th, please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Spring)](https://kaist.elice.io/courses/20213).
+- Then, the students should do the programming practice with the TAs. Please follows the instructions that will be given at the first lab lecture.
+- Please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Fall)](https://kaist.elice.io/courses/28195).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice (2022 Spring)](https://kaist.elice.io/courses/20213)
+- [KAIST CS101 @ Elice (2022 Fall)](https://kaist.elice.io/courses/28195)
 
 ### Schedule
-- [KAIST CS101 Schedule (2022 Spring)](https://docs.google.com/spreadsheets/d/1dLNDKLvSGfehwwVoznI5WRIUz9SO9xRQ5zEyMCE2XcE/edit?usp=sharing)
+- [KAIST CS101 Schedule (2022 Fall)](https://docs.google.com/spreadsheets/d/1CtjmA1rQY25q7ryRgeiKRkqo2ko-l3ZsRUFB_y7GJIk/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/1Gr_NLxJL6W_kh6rnRmfbz21MF1_M3lVp/view?usp=sharing)
@@ -40,7 +40,7 @@
 ## Syllabus
 
 ### Instructor
-- Prof. Min H. Kim (\*coordinator), [minhkim@vclab.kaist.ac.kr](mailto:minhkim@vclab.kaist.ac.kr), 042-350-7864
+- Prof. JongMoon Baik (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr)
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please contact HoiSung, Roh, [hs-roh@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -72,7 +72,7 @@ Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/13700).
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/28195).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
@@ -141,17 +141,17 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
+- Lecture Date & Time: Monday 10:30AM-12:30PM 
 - Lecture Rooms: Online Zoom links will be announced on the Elice
 
 - Lab. Dates & Times: 
  
 |               | Mon   | Tue   | Wed   | Thu   | Fri   |
 |---------------|-------|-------|-------|-------|-------|
-|  9:00 - 11:45 | A & B |       | E & F |       | I & J |
-| 13:00 - 15:45 |       | C & D |       | G & H |       |
+|  9:00 - 11:45 |       | C & D |       | G & H | I & J |
+| 13:00 - 15:45 | A & B |       | E & F |       |       |
  
-- Lab. Room: Online
+- Lab. Room: Creative Learning Building (E11) 307 - A, C, E, G, I / 308 - B, D, F, H, J
 - Language: English
 
 ### Mid-term Exam
@@ -163,8 +163,8 @@ TBD
 TBD
 
 ### Score Check Link
-- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1ShIMt6OKl6WjV1PqoIlplOzWW30IOMlR0W-jfsLLwHA/edit?usp=sharing)
-- [Lab Attendance](https://docs.google.com/spreadsheets/d/1LMY8bo_dpHrfYxMbZ1-MGrYJFA9A17iyamtn5DU0NZ4/edit?usp=sharing)
-- [Homework score](https://docs.google.com/spreadsheets/d/13U4nkB4I8B4ex4tYmiMhj8VHW1GOYMdv2IwaNVKvZI8/edit?usp=sharing)
-- [Practice Points](https://docs.google.com/spreadsheets/d/1DebeYl2BaMo2L8_7DSwvlVptP7kuP-fku1EdC72oxbw/edit?usp=sharing)
-- [Theory Points](https://docs.google.com/spreadsheets/d/1wO8oIwlIpO4Skpqw9IJdmfvaRMxFEsMKTPLHMiIEBYw/edit?usp=sharing)
+- Lecture Attendance(TBD)
+- Lab Attendance(TBD)
+- Homework score(TBD)
+- Practice Points(TBD)
+- Theory Points(TBD)
