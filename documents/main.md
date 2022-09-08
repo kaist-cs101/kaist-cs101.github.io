@@ -163,8 +163,8 @@ TBD
 TBD
 
 ### Score Check Link
-- Lecture Attendance(TBD)
-- Lab Attendance(TBD)
-- Homework score(TBD)
-- Practice Points(TBD)
+- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1TY5f9pnfcR7O7jvIRIsm0EHIit1PxWerzVKV7a7cbLY/edit?usp=sharing)
+- [Lab Attendance](https://docs.google.com/spreadsheets/d/1ATdIdF85QfAtL6wVbjTXcxQs6WMcM_u-U8LFd9qLCMw/edit?usp=sharing)
+- [Homework score](https://docs.google.com/spreadsheets/d/1hoOtIzNV_EKIS1C6FtQN65WrX-KCa5djeE7eDYSHIq8/edit?usp=sharing)
+- [Practice Points](https://docs.google.com/spreadsheets/d/1L7GfjQupwxGT8yAqTU0r-jVK2_-i64ZmNIgLXZZhESY/edit?usp=sharing)
 - Theory Points(TBD)
