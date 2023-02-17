@@ -4,25 +4,25 @@
 ---
 
 #### [Online Lectures] 
-- Starting from August 29th, there will be a live online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
-- Your attendance will be checked when you join the live Zoom lecture.
+- Starting from February 28th, there will be a live online lecture session each week in English via Zoom. Please check the Elice system to join the online lectures.
+- Your attendance will be checked when you join the live Zoom lecture. Please set your name with your ID number + your name.
 
 #### [Online and Offline Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
 - Students who cannot join lab session offline may join online with TA's permission.
 - At the beginning of each lab session, students need to login to the Elice system and watch the pre-recorded lab lecture.
 - Then, the students should do the programming practice with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2022 Fall)](https://kaist.elice.io/courses/28195).
+- Please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system [KAIST CS101 @ Elice (2023 Spring)](https://kaist.elice.io/courses/35221).
 - Once you login in to the Elice system, please check the announce board regularly to get information about the course.
 
 
 ## Links
 
 ### Elice Course
-- [KAIST CS101 @ Elice (2022 Fall)](https://kaist.elice.io/courses/28195)
+- [KAIST CS101 @ Elice (2023 Spring)](https://kaist.elice.io/courses/35221)
 
 ### Schedule
-- [KAIST CS101 Schedule (2022 Fall)](https://docs.google.com/spreadsheets/d/1CtjmA1rQY25q7ryRgeiKRkqo2ko-l3ZsRUFB_y7GJIk/edit?usp=sharing)
+- [KAIST CS101 Schedule (2023 Spring)](https://docs.google.com/spreadsheets/d/1G6QSc8eQ96FeYd4ZRqnPtYjhZUccGnlT8hPgGzPKF9Q/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/1Gr_NLxJL6W_kh6rnRmfbz21MF1_M3lVp/view?usp=sharing)
@@ -40,7 +40,7 @@
 ## Syllabus
 
 ### Instructor
-- Prof. JongMoon Baik (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr)
+- Prof. Min H. Kim (\*coordinator), [minhkim@vclab.kaist.ac.kr](mailto:minhkim@vclab.kaist.ac.kr), 042-350-7864
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please contact HoiSung, Roh, [hs-roh@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -50,11 +50,11 @@ For all admin. matters for the School of Computing office, please contact HoiSun
 
 ### Head TAs
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
-- Labs A & F: ChangMin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
-- Labs C & B: KyuHo Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs E & J: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Labs G & D: JaeMin Shin, [999fg31@gmail.com](mailto:999fg31@gmail.com)
-- Labs I & H: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
+- Labs A & F: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs C & H: ChangMin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
+- Labs E & J: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
+- Labs G & B: EunHo Cho, [ehcho@kaist.ac.kr](mailto:ehcho@kaist.ac.kr)
+- Labs I & D: KyuHo Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
@@ -64,15 +64,15 @@ Starting from spring 2010, CS101 uses the programming language **Python**, a lan
  
 _Python is not a toy_. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The _numerical Python_ library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
-**Sections and Lectures.** CS101 consists of 10 sections of about 45 students each. Two sections take one lecture together, which is once a week for 60~120 minutes. 
+**Sections and Lectures.** CS101 consists of 10 sections of about 45 students each. Two sections take one lecture together, which is once a week for 60~180 minutes. 
 
-**Lab Sessions.** Each section meets once a week for a three-hour lab session supervised by a head TA (a Ph.D. student), with some helper TA's around (undergraduate and master students). 
+**Lab Sessions.** Each section meets once a week for a three-hour lab session supervised by a head TA, with some helper TA's around. 
 Students need to attend the lab session every week. One of the tasks done during the lab has to be marked off by a TA, so that we know that you were there and did your best.
 Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/28195).
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/35221).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times, homework assignments, exams, and the bulletin boards can be found on the course website http://cs101.kaist.ac.kr/.
@@ -141,15 +141,15 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Monday 10:30AM-12:30PM 
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
 - Lecture Rooms: Online Zoom links will be announced on the Elice
 
 - Lab. Dates & Times: 
  
 |               | Mon   | Tue   | Wed   | Thu   | Fri   |
 |---------------|-------|-------|-------|-------|-------|
-|  9:00 - 11:45 |       | C & D |       | G & H | I & J |
-| 13:00 - 15:45 | A & B |       | E & F |       |       |
+|  9:00 - 11:45 | A & B |       | E & F |       | I & J |
+| 13:00 - 15:45 |       | C & D |       | G & H |       |
  
 - Lab. Room: Creative Learning Building (E11) 307 - A, C, E, G, I / 308 - B, D, F, H, J
 - Language: English
@@ -163,8 +163,8 @@ TBD
 TBD
 
 ### Score Check Link
-- [Lecture Attendance](https://docs.google.com/spreadsheets/d/1TY5f9pnfcR7O7jvIRIsm0EHIit1PxWerzVKV7a7cbLY/edit?usp=sharing)
-- [Lab Attendance](https://docs.google.com/spreadsheets/d/1ATdIdF85QfAtL6wVbjTXcxQs6WMcM_u-U8LFd9qLCMw/edit?usp=sharing)
-- [Homework score](https://docs.google.com/spreadsheets/d/1hoOtIzNV_EKIS1C6FtQN65WrX-KCa5djeE7eDYSHIq8/edit?usp=sharing)
-- [Practice Points](https://docs.google.com/spreadsheets/d/1L7GfjQupwxGT8yAqTU0r-jVK2_-i64ZmNIgLXZZhESY/edit?usp=sharing)
+- Lecture Attendance(TBD)
+- Lab Attendance(TBD)
+- Homework score(TBD)
+- Practice Points(TBD)
 - Theory Points(TBD)
