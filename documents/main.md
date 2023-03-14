@@ -153,18 +153,3 @@ We will make use of the following freely available software: Python 3, PyCharm I
  
 - Lab. Room: Creative Learning Building (E11) 307 - A, C, E, G, I / 308 - B, D, F, H, J
 - Language: English
-
-### Mid-term Exam
-
-TBD
-
-### Final Exam
-
-TBD
-
-### Score Check Link
-- Lecture Attendance(TBD)
-- Lab Attendance(TBD)
-- Homework score(TBD)
-- Practice Points(TBD)
-- Theory Points(TBD)
