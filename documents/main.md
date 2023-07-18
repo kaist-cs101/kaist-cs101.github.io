@@ -25,10 +25,10 @@
 - [KAIST CS101 Schedule (2023 Fall)](https://docs.google.com/spreadsheets/d/17w39TjrIP1Krr0TWpIV7LSwM8GbdgvL9bGPF2gRvcog/edit?usp=sharing)
 
 ### Documents
-- [Syllabus](https://drive.google.com/file/d/1bYRuuncQbzXMvXrMzBl_D9zbIgsdJ5-d/view?usp=sharing)
-- [Lecture Notes](https://drive.google.com/drive/folders/1TqYx5mV7P-QIi329y3lhGiSe05AaVgfR)
-- [Lab Notes](https://drive.google.com/drive/folders/1rkn99PENbHb9krkpr0djhA85zoaP2cky)
-- [Code Examples in the Lecture Notes](https://drive.google.com/open?id=1WvT6a9CgW0kZGHY6hnPsnNl2_9btKaI4)
+- [Syllabus](https://drive.google.com/drive/folders/1hlV-YSd91pLcuomwoS4MyYmU6iLxqvME?usp=sharing)
+- [Lecture Notes](https://drive.google.com/drive/folders/1ZjebMQbmXM4RGxl-hrDsgVRigsERSudE?usp=sharing)
+- [Lab Notes](https://drive.google.com/drive/folders/1AMJBcHSDHrCZVphNd3fo3HZTzT7xKMYP?usp=sharing)
+- [Code Examples in the Lecture Notes](https://drive.google.com/drive/folders/1QJo9rZEPRLD5ptDavMJCDezzp4NAGs28?usp=sharing)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
