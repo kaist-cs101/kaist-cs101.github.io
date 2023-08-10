@@ -120,7 +120,7 @@ In the first week of the semester, we offer a "Pass Exam", which students who ha
 The pass exam consists of a 120 minutes programming exam that covers programming in Python as taught in CS101 but without the cs1robots, cs1media, and cs1graphics modules. The programming exam is open book (only printed material). You will use a computer in the lab room. 
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score or to give up the score and take the CS101 course.
 You can find more information about the pass exam on the KAIST portal’s announcement board:
-https://portal.kaist.ac.kr/ennotice/student_notice 
+[https://portal.kaist.ac.kr/ennotice/student_notice](https://portal.kaist.ac.kr/ennotice/student_notice/11691539776680) 
 According to KAIST rule from ART, **only those who have never taken the CS101 can apply the waiver exam.**
 
 ### Repeating students (Course retake policy)
