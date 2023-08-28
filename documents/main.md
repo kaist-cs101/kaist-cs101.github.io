@@ -22,11 +22,11 @@
 - [KAIST CS101 @ Elice (2023 Fall)](https://kaist.elice.io/courses/74310)
 
 ### Schedule
-- [KAIST CS101 Schedule (2023 Fall)](https://docs.google.com/spreadsheets/d/17w39TjrIP1Krr0TWpIV7LSwM8GbdgvL9bGPF2gRvcog/edit?usp=sharing)
+- [KAIST CS101 Schedule (2023 Fall)](https://docs.google.com/spreadsheets/d/1yKCSBsAkhy53qEfN-lKB1Ctcw8FxiJNGWuR2KQI1zns/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/drive/folders/1hlV-YSd91pLcuomwoS4MyYmU6iLxqvME?usp=sharing)
-- [Lecture Notes](https://drive.google.com/drive/folders/1ZjebMQbmXM4RGxl-hrDsgVRigsERSudE?usp=sharing)
+- [Lecture Notes](https://drive.google.com/drive/folders/1tsVfgC8OSXiJbOif4jU_Xedp1zBcni13?usp=sharing)
 - [Lab Notes](https://drive.google.com/drive/folders/1AMJBcHSDHrCZVphNd3fo3HZTzT7xKMYP?usp=sharing)
 - [Code Examples in the Lecture Notes](https://drive.google.com/drive/folders/1QJo9rZEPRLD5ptDavMJCDezzp4NAGs28?usp=sharing)
 
