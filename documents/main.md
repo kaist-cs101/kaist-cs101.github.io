@@ -123,6 +123,8 @@ You can find more information about the pass exam on the KAIST portal’s announ
 [2023 Fall Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11691539776680).
 According to KAIST rule from ART, **only those who have never taken the CS101 can apply the waiver exam.**
 
+For 2023 fall semester, we will have waiver exam at 8/31 Thursday 7PM E11 Creative Bldg. 308.
+
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming, and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
  
