@@ -26,9 +26,6 @@
 
 ### Documents
 - [Syllabus](https://drive.google.com/drive/folders/1hlV-YSd91pLcuomwoS4MyYmU6iLxqvME?usp=sharing)
-- [Lecture Notes](https://drive.google.com/drive/folders/1tsVfgC8OSXiJbOif4jU_Xedp1zBcni13?usp=sharing)
-- [Lab Notes](https://drive.google.com/drive/folders/1AMJBcHSDHrCZVphNd3fo3HZTzT7xKMYP?usp=sharing)
-- [Code Examples in the Lecture Notes](https://drive.google.com/drive/folders/1QJo9rZEPRLD5ptDavMJCDezzp4NAGs28?usp=sharing)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
