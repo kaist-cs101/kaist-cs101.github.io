@@ -50,7 +50,7 @@ For all admin. matters for the School of Computing office, please contact HoiSun
 - Representative Head TA: KyeongDeok Baek, [blest215@kaist.ac.kr](mailto:blest215@kaist.ac.kr)
 - Labs A & F: ChangMin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
 - Labs C & J: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
-- Labs E & H: EunHo Cho, [ehcho@kaist.ac.kr](mailto:ehcho@kaist.ac.kr)
+- Labs E & H: Eunho Cho, [ehcho@kaist.ac.kr](mailto:ehcho@kaist.ac.kr)
 - Labs G & B: KyuHo Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
 - Labs I & D: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr) 
 
