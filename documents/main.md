@@ -5,7 +5,7 @@
 
 #### [Lectures] 
 - Starting from August 28th, there will be an offline lecture each week in English at E3 and E11. 
-- Your attendance will be checked using KLMS.
+- We will take your picture in each lecture, and you should submit the survey by finding your number on the picture. Details are on [Elice](https://kaist.elice.io/courses/74310)
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
@@ -26,6 +26,7 @@
 
 ### Documents
 - [Syllabus](https://drive.google.com/drive/folders/1hlV-YSd91pLcuomwoS4MyYmU6iLxqvME?usp=sharing)
+- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/74310)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
