@@ -143,7 +143,7 @@ We will make use of the following freely available software: Python 3, PyCharm I
 
 #### Section
 - Lecture Date & Time: Monday 10:30AM-12:30PM 
-- Lecture Rooms: E3-1 1501 (A, B, C, D, E), Creative Bldg. Terman Hall (F, G, H, I, J) 
+- Lecture Rooms: Creative Bldg.(E11) 304 (A, B, C, D, E), E3-1 1501 (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
  
