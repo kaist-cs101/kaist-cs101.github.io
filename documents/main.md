@@ -142,7 +142,7 @@ The slides used in the lectures will also be available online, and there will be
 We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Monday 10:30AM-12:30PM 
+- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
 - Lecture Rooms: Creative Bldg.(E11) 304 (A, B, C, D, E), E3-1 1501 (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
