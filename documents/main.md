@@ -9,11 +9,11 @@
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
-- Students who cannot join lab session offline may join online with TA's permission.
-- At the beginning of each lab session, head ta will give a lab lecture.
-- Then, the students should do the programming practice with the TAs. Please follows the instructions that will be given at the first lab lecture.
-- Please check the detail instructions that are posted on the bulletin board at the KLMS site to enroll for the Elice system. ~[KAIST CS101 @ Elice (2023 Fall)](https://kaist.elice.io/courses/74310).~
-- Once you login in to the Elice system, please check the announce board regularly to get information about the course.
+- Students who cannot join lab sessions offline may join online with the TA's permission.
+- The head TA will give a lab lecture at the beginning of each lab session.
+- Then, the students should do the programming practice with the TAs. Please follow the instructions that will be given at the first lab lecture.
+- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. ~[KAIST CS101 @ Elice (2023 Fall)](https://kaist.elice.io/courses/74310).~
+- Once you log into the Elice system, please check the announcement board regularly for information about the course.
 
 
 ## Links
@@ -24,7 +24,7 @@
 - [KAIST CS101 Schedule (2024 Spring)](https://docs.google.com/spreadsheets/d/1KJav0rdk_jUDWPw7XHQ2kXlb_gf-4dMK_EDWSSBFA7U/edit?usp=sharing)
 
 ### Documents -->
-- ~[Syllabus](https://drive.google.com/drive/folders/1hlV-YSd91pLcuomwoS4MyYmU6iLxqvME?usp=sharing)~
+- [Syllabus](https://drive.google.com/file/d/12FREqSsc9TGgvEvBdlIwx5glUMj3iKlj/view?usp=sharing)
 - ~Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/74310)~
 
 ### Practice Materials
@@ -41,7 +41,7 @@
 - Prof. Jongmoon Baik, [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
 
 ### Admin. Staff
-For all admin. matters for the School of Computing office, please contact HoiSung, Roh, [hs-roh@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
+For all admin. matters for the School of Computing office, please get in touch with Seong Hee Kang, [hs-diane813@kaist.ac.kr](mailto:hs-roh@kaist.ac.kr), 042-350-3505, E3-1 1402
 
 ### Teaching Assistants
 7-8 TAs will be assigned to each section
@@ -62,7 +62,7 @@ Starting from spring 2010, CS101 uses the programming language **Python**, a lan
  
 _Python is not a toy_. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The _numerical Python_ library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
-**Sections and Lectures.** CS101 consists of 10 sections of about 45 students each. Five sections take one lecture together, which is once a week for 120 minutes. 
+**Sections and Lectures.** CS101 consists of about 500 students. All sections take online lectures via Zoom together, which is once a week for 60~120 minutes. The recorded lecture video will be available as streaming through our online lab practice website, Elice (https://kaist.elice.io/). In addition, the Korean version of the CS101 lectures is available in KOOC (KAIST Massive Open Online Courses): https://kooc.kaist.ac.kr/cs101. The additional lectures will cover the same content as the English live version of CS101 lectures. These lectures would be helpful for those who have difficulties in taking the English lectures.
 
 **Lab Sessions.** Each section meets once a week for a three-hour lab session supervised by a head TA, with some helper TA's around. 
 Students need to attend the lab session every week. One of the tasks done during the lab has to be marked off by a TA, so that we know that you were there and did your best.
@@ -93,7 +93,7 @@ Theory points are collected as follows:
 
 **You may get F if you failed to get enough theory points.**
 
-**The practice points over 340 are ONLY qualification for grading.**
+**The practice points over 250 are ONLY qualification for grading.**
 
 **Cheating is strongly forbidden.**
 
@@ -108,14 +108,14 @@ Every student will receive letter grades (A-F).
 In the first week of the semester, we offer a "Pass Exam", which students who have already learned programming can take to fulfill the CS101 requirement. 
 The pass exam consists of a 120 minutes programming exam that covers programming in Python as taught in CS101 but without the cs1robots, cs1media, and cs1graphics modules. The programming exam is open book (only printed material). You will use a computer in the lab room. 
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score or to give up the score and take the CS101 course.
-~You can find more information about the pass exam on the KAIST portal’s announcement board:
-[2023 Fall Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11691539776680).~
+You can find more information about the pass exam on the KAIST portal’s announcement board:
+[2024 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11707186901875).
 According to KAIST rule from ART, **only those who have never taken the CS101 can apply the waiver exam.**
 
-~For 2023 fall semester, we will have waiver exam at 8/31 Thursday 7PM E11 Creative Bldg. 308.~
+For the 2024 spring semester, we will have a waiver exam on 3/5 at 7 PM on Tuesday at E11 Creative Bldg. 308.
 
 ### Repeating students (Course retake policy)
-Students who have already taken advanced courses involving programming, and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
+Students who have already taken advanced courses involving programming and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering)
 
 All repeating students cannot receive a grade better than A- by KAIST policy (and this applies even to students who entered KAIST before 2007).
 
@@ -130,11 +130,11 @@ CS101 uses the following materials:
 The slides used in the lectures will also be available online, and there will be slides for every lab session.
  
 ### Software
-We will make use of the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
+We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30AM-12:30PM 
-- Lecture Rooms: Creative Bldg.(E11) 304 (A, B, C, D, E), E3-1 1501 (F, G, H, I, J) 
+- Lecture Date & Time: Tuesday 10:30 AM-12:30 PM 
+- Lecture Rooms: Creative Bldg. (E11) 304 (A, B, C, D, E), E3-1 1501 (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
  
