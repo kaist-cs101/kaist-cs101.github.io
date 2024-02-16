@@ -17,13 +17,13 @@
 
 
 ## Links
-### Elice Course -->
+### Elice Course
 - [KAIST CS101 @ Elice (2024 Spring)](https://kaist.elice.io/courses/87249)
 
 ### Schedule
 - [KAIST CS101 Schedule (2024 Spring)](https://docs.google.com/spreadsheets/d/1KJav0rdk_jUDWPw7XHQ2kXlb_gf-4dMK_EDWSSBFA7U/edit?usp=sharing)
 
-### Documents -->
+### Documents
 - [Syllabus](https://drive.google.com/file/d/12FREqSsc9TGgvEvBdlIwx5glUMj3iKlj/view?usp=sharing)
 - Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/87249)
 
