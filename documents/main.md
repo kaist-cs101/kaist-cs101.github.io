@@ -70,7 +70,7 @@ Some of the lab sessions will introduce students how to do pair programming.
  
 **Homeworks.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-~**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/74310).~
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/87249).
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus, lecture notes, and slides for CS101, and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as lecturers, TAs, lecture and lab times can be found on the course website http://cs101.kaist.ac.kr/.
