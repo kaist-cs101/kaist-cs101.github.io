@@ -4,7 +4,7 @@
 ---
 
 #### [Lectures] 
-- Starting from February 27th, there will be an offline lecture each week in English at E3 and E11. 
+- Starting from February 27th, there will be an **offline lecture** each week in English at E3 and E11. 
 - We will take your picture in each lecture, and you should submit the survey by finding your number on the picture. Details are on [Elice](https://kaist.elice.io/courses/87249)
 
 #### [Lab Sessions] 
@@ -62,7 +62,7 @@ Starting from spring 2010, CS101 uses the programming language **Python**, a lan
  
 _Python is not a toy_. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The _numerical Python_ library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
-**Sections and Lectures.** CS101 consists of about 500 students. All sections take online lectures via Zoom together, which is once a week for 60~120 minutes. The recorded lecture video will be available as streaming through our online lab practice website, Elice (https://kaist.elice.io/). In addition, the Korean version of the CS101 lectures is available in KOOC (KAIST Massive Open Online Courses): https://kooc.kaist.ac.kr/cs101. The additional lectures will cover the same content as the English live version of CS101 lectures. These lectures would be helpful for those who have difficulties in taking the English lectures.
+**Sections and Lectures.** CS101 consists of about 500 students. All sections take offline lectures, which is once a week for 60~120 minutes. In addition, the Korean version of the CS101 lectures is available in KOOC (KAIST Massive Open Online Courses): https://kooc.kaist.ac.kr/cs101. These lectures would be helpful for those who have difficulties in taking the English lectures.
 
 **Lab Sessions.** Each section meets once a week for a three-hour lab session supervised by a head TA, with some helper TA's around. 
 Students need to attend the lab session every week. One of the tasks done during the lab has to be marked off by a TA, so that we know that you were there and did your best.
