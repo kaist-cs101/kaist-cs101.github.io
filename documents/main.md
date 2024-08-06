@@ -37,8 +37,8 @@
 ## Syllabus
 
 ### Instructor
-- Prof. Min H. Kim, (\*coordinator), [minhkim@kaist.ac.kr](mailto:minhkim@kaist.ac.kr)
-- Prof. Jongmoon Baik, [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
+- Prof. Jongmoon Baik, (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
+- Prof. Moonzoo Kim, [moonzoo.kim@gmail.com](mailto:moonzoo.kim@gmail.com)
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please get in touch with Seong Hee Kang, [diane813@kaist.ac.kr](mailto:diane813@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -132,7 +132,7 @@ The slides used in the lectures will also be available online, and there will be
 We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30 AM-12:30 PM 
+- Lecture Date & Time: Monday 10:30 AM-12:30 PM 
 - Lecture Rooms: E3-1 1501 (A, B, C, D, E), Creative Bldg. (E11) Turman Hall (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
