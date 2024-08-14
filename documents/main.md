@@ -110,13 +110,16 @@ If you pass the exam with a B- or better, you can choose to accept the score as 
 You can find more information about the pass exam on the KAIST portal’s announcement board:
 [2024 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11707186901875).
 According to the KAIST rule from ART, **only those who have never taken the CS101 can apply for the waiver exam.**
+If you need more information about pass exam, please mail to ART.
 
-For the 2024 spring semester, we will have a waiver exam on 3/5 at 7 PM on Tuesday at E11 Creative Bldg. 307.
+For the 2024 fall semester, we will have a waiver exam on 9/9 at 7 PM on Monday at E11 Creative Bldg. 308.
 
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering.
 
 All repeating students cannot receive a grade better than A- by KAIST policy.
+
+For those who have questions about retaking, please mail to Seong Hee Kang, [diane813@kaist.ac.kr](mailto:diane813@kaist.ac.kr) of the School of Computing office.
 
 ### Literature
 CS101 uses the following materials:
