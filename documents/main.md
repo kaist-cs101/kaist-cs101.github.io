@@ -5,27 +5,27 @@
 
 #### [Lectures] 
 - Starting from Fall 2nd, there will be an **offline lecture** each week in English at E3 and E11. 
-- We will take your picture in each lecture, and you should submit the survey by finding your number on the picture. Details are on [Elice](https://kaist.elice.io/courses/)
+- We will take your picture in each lecture, and you should submit the survey by finding your number on the picture. Details are on [Elice](https://kaist.elice.io/courses/370394)
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
 - Students who cannot join lab sessions offline may join online with the TA's permission.
 - The head TA will lecture at the beginning of each lab session.
 - Then, the students should do the programming practice with the TAs. Please follow the instructions that will be given at the first lab lecture.
-- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/).
+- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/370394).
 - Once you log into the Elice system, please check the announcement board regularly for information about the course.
 
 
 ## Links
 ### Elice Course
-- [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/)
+- [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/370394)
 
 ### Schedule
 - [KAIST CS101 Schedule (2024 Fall)](https://docs.google.com/spreadsheets/d/1aspTR1gAKi-cRbhJCNnAHL3wyLvut1yPHagd8o6WI3w/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/1HyB7zl9H8VAUkw_XlpL4Gm2bKL5dEt4_/view?usp=sharing)
-- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/)
+- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/370394)
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
@@ -69,7 +69,7 @@ Students need to attend the lab session every week. One of the tasks done during
  
 **Homework.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101.<br>**We will not use KLMS**
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/370394). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101.<br>**We will not use KLMS**
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as professors, TAs, and schedules can be found on the course website as well.
