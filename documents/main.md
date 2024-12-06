@@ -96,7 +96,7 @@ Theory points are collected as follows:
 
 **Cheating is strongly forbidden.** Cheating on homework or exams will give an F. Both the copier and source provider will obviously get an F grade. **Note that if you look at another’s HW program code, it will be considered cheating.**
 
-**Using ChatGPT or AI-assisted tools will be considered cheating.** If you use any of the IDEs that contain AI-assistant programming tools, you will get an F grade.
+**Using ChatGPT or AI-assisted tools will be considered cheating.** If you use any of the IDEs, you will get an F grade.
 
 Every student will receive a letter grade (A-F).
 
