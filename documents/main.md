@@ -55,10 +55,10 @@ For all admin. matters for the School of Computing office, please get in touch w
 - Labs H & I: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
 
 ### Course Objective
-The objective of CS101 is to teach _programming skills_ and _computational thinking_. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
+The objective of CS101 is to teach *programming skills* and *computational thinking*. Programming skills are essential because programming is a fundamental tool across all areas of science and engineering. Computational thinking is even more critical, as it shapes the way problems are approached and solved. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula; today, it is typically an algorithm.
  
 ### Course Structure
-Starting from spring 2010, CS101 uses the programming language **Python**, a language that was designed to be easy to learn. Python is used by many universities world-wide for *teaching introductory programming*. It is free, open-source, and multi-platform.
+Since spring 2010, CS101 has used **Python**, a programming language *designed for ease of learning*. Python is widely adopted by universities around the world for *teaching introductory programming*. It is free, open-source, and multi-platform.
  
 *Python is not a toy*. Python is the basis for much of the programming at Google (for instance, Python is the original and main framework for the Google App Engine platform). Python is used intensively in numerical computations, for instance at NASA. The *numerical Python* library supports vectorization and is widely used in scientific computation. Python is also the language of choice for writing user interfaces for applications on high-end Nokia phones. Large portions of games (such as Civilization IV) are written in Python. Python is becoming the language of choice in mathematics, used for instance by graph algorithm libraries, or the open-source mathematics software system Sage (an open-source competitor to Maple or Mathematica).
  
@@ -94,7 +94,7 @@ Theory points are collected as follows:
 
 **The practice points over 250 are ONLY qualifications for grading.**
 
-**Cheating is strongly forbidden.** Cheating on homework or exams will give an F. Both the copier and source provider will obviously get an F grade. **Note that if you look at another’s HW program code, it will be considered cheating.**
+**Cheating is strongly forbidden.** Cheating on homework or exams will give an F. Both the copier and source provider will obviously get an F grade. **Note that if you look at another’s HW or Lab program code, it will be considered cheating.**
 
 **Using ChatGPT or AI-assisted tools will be considered cheating.** If you use any of the IDEs, you will get an F grade.
 
@@ -103,16 +103,17 @@ Every student will receive a letter grade (A-F).
 ### Pass exam
 In the first week of the semester, we offer a "Pass Exam," which students who have already learned programming can take to fulfill the CS101 requirement.
 
-The pass exam consists of a 120-minute programming exam that covers programming in Python as taught in CS101 but without the cs1robots, cs1media, and cs1graphics modules.
+The pass exam consists of a 120-minute programming exam that covers programming in Python as taught in CS101.
+Note that the pass exam can consists of CS101 modules like cs1robots, cs1media, and cs1graphics modules.
 
-The programming exam is open book and open google. You will use a computer in the lab room.
+The programming exam is open book and open google.
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score or to give up the score and take the CS101 course.
 You can find more information about the pass exam on the KAIST portal’s announcement board:
 [2024 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11707186901875).
 According to the KAIST rule from ART, **only those who have never taken the CS101 can apply for the waiver exam.**
 If you need more information about pass exam, please mail to ART.
 
-For the 2024 fall semester, we will have a waiver exam on 9/9 at 7 PM on Monday at E11 Creative Bldg. 308.
+After the pass exam enrollment, representative head TA will send you a mail with detailed instructions.
 
 ### Repeating students (Course retake policy)
 Students who have already taken advanced courses involving programming and all students who are majoring in the following departments cannot retake CS101 if they have already passed CS101: School of Electrical Engineering, School of Computing, Information & Communications Engineering, and Industrial & Systems Engineering.
@@ -135,7 +136,7 @@ The slides used in the lectures will also be available online, and there will be
 We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Monday 10:30 AM-12:30 PM 
+- Lecture Date & Time: Monday 10:30 AM-12:300 PM 
 - Lecture Rooms: E3-1 1501 (A, B, C, D, E), Creative Bldg. (E11) Turman Hall (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
