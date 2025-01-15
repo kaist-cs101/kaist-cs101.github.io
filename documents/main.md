@@ -4,41 +4,42 @@
 ---
 
 #### [Lectures] 
-- Starting from Fall 2nd, there will be an **offline lecture** each week in English at E3 and E11. 
-- We will take your picture in each lecture, and you should submit the survey by finding your number on the picture. Details are on [Elice](https://kaist.elice.io/courses/370394)
+- Starting from February 25th, there will be an **offline lecture** each week in English at E3 and E11.
+- You should submit your student ID and name by the QR code on the seat. Details are on ~[Elice](https://kaist.elice.io/courses/)~.
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
 - Students who cannot join lab sessions offline may join online with the TA's permission.
 - The head TA will lecture at the beginning of each lab session.
 - Then, the students should do the programming practice with the TAs. Please follow the instructions that will be given at the first lab lecture.
-- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/370394).
+- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. ~[KAIST CS101 @ Elice (2025 Spring)](https://kaist.elice.io/courses/)~.
 - Once you log into the Elice system, please check the announcement board regularly for information about the course.
-
 
 ## Links
 ### Elice Course
-- [KAIST CS101 @ Elice (2024 Fall)](https://kaist.elice.io/courses/370394)
+- ~[KAIST CS101 @ Elice (2025 Spring)](https://kaist.elice.io/courses/)~
 
 ### Schedule
-- [KAIST CS101 Schedule (2024 Fall)](https://docs.google.com/spreadsheets/d/1aspTR1gAKi-cRbhJCNnAHL3wyLvut1yPHagd8o6WI3w/edit?usp=sharing)
+- [KAIST CS101 Schedule (2025 Spring)](https://docs.google.com/spreadsheets/d/16ny8BlF-mmd1Sl9CagdLM3-lPeAOJHLTk6xqPYbE8aU/edit?usp=sharing)
 
 ### Documents
 - [Syllabus](https://drive.google.com/file/d/1HyB7zl9H8VAUkw_XlpL4Gm2bKL5dEt4_/view?usp=sharing)
-- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/370394)
+- Lecture and lab notes are available on ~[Elice](https://kaist.elice.io/courses/)~
 
 ### Practice Materials
 - [Python 3 Libraries for CS101](/assets/files/cs101_libraries_py35.zip)
-- [Robot notes for CS101](/assets/files/robotnotes.pdf)
+- [Robot notes for CS101](/assets/files/cs1robots.pdf)
 - [Robot worlds for CS101](/assets/files/worlds.zip)
+- [cs1media notes for CS101](/assets/files/cs1media.pdf)
+- [cs1graphics notes for CS101](/assets/files/cs1graphics.pdf)
 
 ---
 
 ## Syllabus
 
 ### Instructor
-- Prof. Jongmoon Baik, (\*coordinator), [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
-- Prof. Moonzoo Kim, [moonzoo.kim@gmail.com](mailto:moonzoo.kim@gmail.com)
+- Prof. Geehyuk Lee, (\*coordinator), [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350,
+- Prof. Jongmoon Baik, [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please get in touch with Seong Hee Kang, [diane813@kaist.ac.kr](mailto:diane813@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -48,11 +49,11 @@ For all admin. matters for the School of Computing office, please get in touch w
 
 ### Head TAs
 - Representative Head TA: Eunho Cho, [head_ta@cs101.kaist.ac.kr](mailto:head_ta@cs101.kaist.ac.kr)
-- Labs A & E: ChangMin Sung, [shade@kaist.ac.kr](mailto:shade@kaist.ac.kr)
-- Labs B & F: KyuHo Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
-- Labs C & G: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
-- Labs D & J: Sangho Lim, [lim.sang@kaist.ac.kr](mailto:lim.sang@kaist.ac.kr)
-- Labs H & I: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs A & E: SuMin Ahn, [smahn@kaist.ac.kr](mailto:smahn@kaist.ac.kr)
+- Labs B & I: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
+- Labs C & G: KyuHo Son, [ableman@kaist.ac.kr](mailto:ableman@kaist.ac.kr)
+- Labs D & J: Eunchan Park, [eunchan.park@kaist.ac.kr](mailto:eunchan.park@kaist.ac.kr)
+- Labs H & I: Sangho Lim, [lim.sang@kaist.ac.kr](mailto:lim.sang@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS101 is to teach *programming skills* and *computational thinking*. Programming skills are essential because programming is a fundamental tool across all areas of science and engineering. Computational thinking is even more critical, as it shapes the way problems are approached and solved. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula; today, it is typically an algorithm.
@@ -69,7 +70,7 @@ Students need to attend the lab session every week. One of the tasks done during
  
 **Homework.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/370394). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101.<br>**We will not use KLMS**
+**Elice.** We will also make use of the online programming education platform, ~[Elice](https://kaist.elice.io/courses/)~. Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101.<br>**We will not use KLMS**
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus and links to all the software you need in the labs (or to do the lab tasks on your own computer).
 All other information, such as professors, TAs, and schedules can be found on the course website as well.
@@ -109,7 +110,7 @@ Note that the pass exam can consists of CS101 modules like cs1robots, cs1media, 
 The programming exam is open book and open google.
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score or to give up the score and take the CS101 course.
 You can find more information about the pass exam on the KAIST portal’s announcement board:
-[2024 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/11707186901875).
+~[2025 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/)~.
 According to the KAIST rule from ART, **only those who have never taken the CS101 can apply for the waiver exam.**
 If you need more information about pass exam, please mail to ART.
 
