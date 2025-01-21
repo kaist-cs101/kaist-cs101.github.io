@@ -23,7 +23,7 @@
 - [KAIST CS101 Schedule (2025 Spring)](https://docs.google.com/spreadsheets/d/16ny8BlF-mmd1Sl9CagdLM3-lPeAOJHLTk6xqPYbE8aU/edit?usp=sharing)
 
 ### Documents
-- [Syllabus](https://drive.google.com/file/d/1HyB7zl9H8VAUkw_XlpL4Gm2bKL5dEt4_/view?usp=sharing)
+- [Syllabus](https://drive.google.com/file/d/1-UNQdQaMYvKGkaZIn-R8BinuI9OBh5_z/view?usp=sharing)
 - Lecture and lab notes are available on ~[Elice](https://kaist.elice.io/courses/)~
 
 ### Practice Materials
@@ -38,7 +38,7 @@
 ## Syllabus
 
 ### Instructor
-- Prof. Geehyuk Lee, (\*coordinator), [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350,
+- Prof. Geehyuk Lee, (\*coordinator), [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr), 042-350-3557
 - Prof. Jongmoon Baik, [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr), 042-350-3556
 
 ### Admin. Staff
@@ -137,15 +137,15 @@ The slides used in the lectures will also be available online, and there will be
 We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Monday 10:30 AM-12:300 PM 
+- Lecture Date & Time: Tuesday 10:30 AM-12:300 PM 
 - Lecture Rooms: E3-1 1501 (A, B, C, D, E), Creative Bldg. (E11) Turman Hall (F, G, H, I, J) 
 
 - Lab. Dates & Times: 
  
 |               | Mon   | Tue   | Wed   | Thu   | Fri   |
 |---------------|-------|-------|-------|-------|-------|
-|  9:00 - 11:45 |       | C & D |       | G & H | I & J |
-| 13:00 - 15:45 | A & B |       | E & F |       |       |
+|  9:00 - 11:45 | A & B |       | E & F |       | I & J |
+| 13:00 - 15:45 |       | C & D |       | G & H |       |
  
 - Lab. Room: Creative Learning Building (E11) 307 - A, C, E, G, I / 308 - B, D, F, H, J
 - Language: English
