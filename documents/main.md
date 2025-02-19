@@ -109,8 +109,7 @@ Note that the pass exam can consists of CS101 modules like cs1robots, cs1media, 
 
 The programming exam is open book and open google.
 If you pass the exam with a B- or better, you can choose to accept the score as your CS101 score or to give up the score and take the CS101 course.
-You can find more information about the pass exam on the KAIST portal’s announcement board:
-~[2025 Spring Course Waiver Exam](https://portal.kaist.ac.kr/ennotice/student_notice/)~.
+You can find more information about the pass exam on the KAIST portal’s announcement board.
 According to the KAIST rule from ART, **only those who have never taken the CS101 can apply for the waiver exam.**
 If you need more information about pass exam, please mail to ART.
 
