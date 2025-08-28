@@ -72,7 +72,7 @@ Students need to attend the lab session every week. One of the tasks done during
  
 **Homework.** There will also be four take-home assignments where you have to program slightly more complex tasks.
   
-**Elice.** We will also make use of the online programming education platform, ~[Elice](https://kaist.elice.io/courses/)~. Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101.<br>**We will not use KLMS**
+**Elice.** We will also make use of the online programming education platform, ~[Elice](https://kaist.elice.io/courses/)~. Elice contains lecture notes, codes, slides, programming tasks, and exams for CS101. **We will not use KLMS**
 
 **Course Website.** The comprehensive course website (http://cs101.kaist.ac.kr/) contains the syllabus and links to all the software you need in the labs (or to do the lab tasks on your own computer). All other information, such as professors, TAs, and schedules can be found on the course website as well.
 
