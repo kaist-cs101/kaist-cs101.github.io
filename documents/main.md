@@ -140,7 +140,7 @@ All excused absences except menstrual leave must be requested via a Google Form 
 
 ### Pass exam
 In the first week of the semester, we offer a "Pass Exam," which students who have already learned programming can take to fulfill the CS.10001 requirement.
-**For this spring semester, the exam will be held at March 3rd, 19:15. The place is TBD.**
+**For this spring semester, the exam will be held at March 4th, 19:15. The place is E11 Room 307.**
 
 The pass exam consists of a 120-minute programming exam that covers programming in Python as taught in CS.10001. Note that the pass exam can consists of CS.10001 modules like cs1robots, cs1media, and cs1graphics modules.
 
