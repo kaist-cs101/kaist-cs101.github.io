@@ -1,31 +1,31 @@
-## (2026 Spring) CS.10001 Introduction to Programming
+## (2026 Fall) CS.10001 Introduction to Programming
 
 > The objective of CS.10001 is to teach *programming skills* and *computational thinking*. The first is important because programming is needed in all areas of science and engineering, although very different programming languages are used. The second is perhaps even more important, as it influences how you go about solving a problem. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula. Today, it is usually an algorithm.
 
 ---
  
 #### [Lectures] 
-- Starting from March 2nd, there will be an **offline lecture** each week in English at E11.
-- You should submit your student ID and name by the QR code on the seat. Details are on [Elice](https://kaist.elice.io/courses/768539).
+- Starting from August 2nd, there will be an **offline lecture** each week in English at E11.
+- You should submit your student ID and name by the QR code on the seat. Details are on [Elice](https://kaist.elice.io/courses/786861).
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
 - Students who cannot join lab sessions offline may join online with the TA's permission.
 - The head TA will lecture at the beginning of each lab session.
 - Then, the students should do the programming practice with the TAs. Please follow the instructions that will be given at the first lab lecture.
-- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS.10001 @ Elice (2026 Spring)](https://kaist.elice.io/courses/768539).
+- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS.10001 @ Elice (2026 Fall)](https://kaist.elice.io/courses/786861).
 - Once you log into the Elice system, please check the announcement board regularly for information about the course.
 
 ## Links
 ### Elice Course
-- [KAIST CS.10001 @ Elice (2026 Spring)](https://kaist.elice.io/courses/768539)
+- [KAIST CS.10001 @ Elice (2026 Fall)](https://kaist.elice.io/courses/786861)
 
 ### Schedule
-- [KAIST CS.10001 Schedule (2026 Spring)](https://docs.google.com/spreadsheets/d/1CtRYKv5h_V5OAdBUHE60jUVFittEWsXDCqfOY0i5Xpw)
+- [KAIST CS.10001 Schedule (2026 Fall)](https://docs.google.com/spreadsheets/d/1Yqw43_CfU_IyP22pxK6MDpZUI30_XpIz1bLTnE5mtT0)
 
 ### Documents
-- [Syllabus](https://drive.google.com/file/d/1_DPmJF7ShGGXHxVBKXMWG90O1VngU5Zs/view?usp=sharing)
-- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/768539)
+- [Syllabus](https://drive.google.com/file/d/1-w-0PBXggbQqF3xU3NdqLSOENxxlNpFJ/view?usp=sharing)
+- Lecture and lab notes are available on [Elice](https://kaist.elice.io/courses/786861)
 
 ### Practice Materials
 - [Python 3 Libraries for CS.10001](/assets/files/cs101_libraries_py35.zip)
@@ -39,8 +39,8 @@
 ## Syllabus
 
 ### Instructor
-- Prof. Moonzoo Kim, [moonzookim@kaist.ac.kr](mailto:moonzookim@kaist.ac.kr)
-- Prof. Jongmoon Baik, [jbaik@kaist.ac.kr](mailto:jbaik@kaist.ac.kr)
+- Prof. Geehyuk Lee, [geehyuk@kaist.ac.kr](mailto:geehyuk@kaist.ac.kr)
+- Prof. In-Young Ko, [iko@kaist.ac.kr](mailto:iko@kaist.ac.kr)
 
 ### Admin. Staff
 For all admin. matters for the School of Computing office, please get in touch with Seong Hee Kang, [diane813@kaist.ac.kr](mailto:diane813@kaist.ac.kr), 042-350-3505, E3-1 1402
@@ -50,11 +50,11 @@ For all admin. matters for the School of Computing office, please get in touch w
 
 ### Head TAs
 - Representative Head TA: Eunho Cho, [head_ta@cs101.kaist.ac.kr](mailto:head_ta@cs101.kaist.ac.kr)
-- Labs A & E: Eunchan Park, [eunchan.park@kaist.ac.kr](mailto:eunchan.park@kaist.ac.kr)
-- Labs B & F: Jonguk Jeon, [jonguk.jeon@kaist.ac.kr](mailto:jonguk.jeon@kaist.ac.kr)
-- Labs C & G: Sangho Lim, [lim.sang@kaist.ac.kr](mailto:lim.sang@kaist.ac.kr)
-- Labs D & J: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
-- Labs H & I: Hyunjun Ahn, [a.hyunjun@kaist.ac.kr](mailto:a.hyunjun@kaist.ac.kr)
+- Labs TBD: Eunchan Park, [eunchan.park@kaist.ac.kr](mailto:eunchan.park@kaist.ac.kr)
+- Labs TBD: Jonguk Jeon, [jonguk.jeon@kaist.ac.kr](mailto:jonguk.jeon@kaist.ac.kr)
+- Labs TBD: Junho Myung, [junho00211@kaist.ac.kr](mailto:junho00211@kaist.ac.kr)
+- Labs TBD: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
+- Labs TBD: Hyunjun Ahn, [a.hyunjun@kaist.ac.kr](mailto:a.hyunjun@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS.10001 is to teach *programming skills* and *computational thinking*. Programming skills are essential because programming is a fundamental tool across all areas of science and engineering. Computational thinking is even more critical, as it shapes the way problems are approached and solved. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula; today, it is typically an algorithm.
@@ -70,7 +70,7 @@ Since spring 2010, CS.10001 has used **Python**, a programming language *designe
 
 **Homework.** There will also be one course criteria-based simple quiz assignment, and four take-home assignments where you must program slightly more complex tasks.
 
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/768539). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS.10001. **We will not use KLMS. Therefore, you should register the Elice.**
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/786861). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS.10001. **We will not use KLMS. Therefore, you should register the Elice.**
 
 **Course Website.** The comprehensive [course website](http://cs101.kaist.ac.kr/) contains the syllabus and links to all the software you need in the labs (or to do the lab tasks on your own computer). All other information, such as professors, TAs, and schedules can be found on the course website as well.
 
@@ -140,11 +140,14 @@ All excused absences except menstrual leave must be requested via a Google Form 
 
 ### Pass exam
 In the first week of the semester, we offer a "Pass Exam," which students who have already learned programming can take to fulfill the CS.10001 requirement.
-**For this spring semester, the exam will be held at March 4th, 19:15. The place is E11 Room 307.**
+**For this fall semester, the exam will be held at TBD, 19:15. The place is TBD.**
 
-The pass exam consists of a 120-minute programming exam that covers programming in Python as taught in CS.10001. Note that the pass exam can consists of CS.10001 modules like cs1robots, cs1media, and cs1graphics modules.
+The pass exam consists of a 150-minute programming exam. Note that the pass exam can consists of CS.10001 modules like cs1robots, cs1media, and cs1graphics modules.
+Accessing any website excluding the exam platform is strictly prohibited.
 
+**If you pass the exam with an A- or better, you cannot discard the score. You should accept your CS.10001 score.**
 If you pass the exam with a B- or better, you can choose to accept the score as your CS.10001 score or to give up the score and take the CS.10001 course.
+
 You can find more information about the pass exam on the KAIST portal’s announcement board.
 According to the KAIST rule from ART, **only those who have never taken the CS.10001 can apply for the waiver exam.**
 If you need more information about pass exam, please mail to ART.
@@ -170,12 +173,12 @@ The slides used in the lectures will also be available online, and there will be
 We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
-- Lecture Date & Time: Tuesday 10:30 AM-12:30 PM 
-- Lecture Rooms: Creative Bldg. (E11) 304 (A, B, C, D, E), Creative Bldg. (E11) Turman Hall (F, G, H, I, J) 
+- Lecture Date & Time: Monday 10:30 AM-12:30 PM 
+- Lecture Rooms: Creative Bldg. (E11) 304 (A, B, C, D, E), Creative Bldg. (E11) 104 (Turman Hall) (F, G, H, I, J) 
 - Lab Rooms: Creative Learning Building (E11) 307 - A, C, E, G, I / 308 - B, D, F, H, J
 - Lab Dates & Times: 
  
 |               | Mon   | Tue   | Wed   | Thu   | Fri   |
 |---------------|-------|-------|-------|-------|-------|
-|  9:00 - 11:45 | A & B |       | E & F |       | I & J |
-| 13:00 - 15:45 |       | C & D |       | G & H |       |
+|  9:00 - 11:45 |       | C & D |       | G & H | I & J |
+| 13:00 - 15:45 | A & B |       | E & F |       |       |
