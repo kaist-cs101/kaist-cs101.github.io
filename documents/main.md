@@ -50,11 +50,11 @@ For all admin. matters for the School of Computing office, please get in touch w
 
 ### Head TAs
 - Representative Head TA: Eunho Cho, [head_ta@cs101.kaist.ac.kr](mailto:head_ta@cs101.kaist.ac.kr)
-- Labs TBD: Eunchan Park, [eunchan.park@kaist.ac.kr](mailto:eunchan.park@kaist.ac.kr)
-- Labs TBD: Jonguk Jeon, [jonguk.jeon@kaist.ac.kr](mailto:jonguk.jeon@kaist.ac.kr)
-- Labs TBD: Junho Myung, [junho00211@kaist.ac.kr](mailto:junho00211@kaist.ac.kr)
-- Labs TBD: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
-- Labs TBD: Hyunjun Ahn, [a.hyunjun@kaist.ac.kr](mailto:a.hyunjun@kaist.ac.kr)
+- Labs A & E: Eunchan Park, [eunchan.park@kaist.ac.kr](mailto:eunchan.park@kaist.ac.kr)
+- Labs B & I: Jonguk Jeon, [jonguk.jeon@kaist.ac.kr](mailto:jonguk.jeon@kaist.ac.kr)
+- Labs F & J: Junho Myung, [junho00211@kaist.ac.kr](mailto:junho00211@kaist.ac.kr)
+- Labs C & G: ChangYoon Lee, [cyoon47@kaist.ac.kr](mailto:cyoon47@kaist.ac.kr)
+- Labs D & H: Hyunjun Ahn, [a.hyunjun@kaist.ac.kr](mailto:a.hyunjun@kaist.ac.kr)
 
 ### Course Objective
 The objective of CS.10001 is to teach *programming skills* and *computational thinking*. Programming skills are essential because programming is a fundamental tool across all areas of science and engineering. Computational thinking is even more critical, as it shapes the way problems are approached and solved. Fifty years ago, the solution to a problem in mathematics or engineering was often a formula; today, it is typically an algorithm.
@@ -165,7 +165,7 @@ CS.10001 uses the following materials:
     -	A Korean translation is also available (ISBN 978-8960771338)
 -	**Robot lecture notes** Lecture notes to be used together with cs1robots.py.
 -	**Photo processing lecture notes** Lecture notes to be used with cs1media.py.
--	**Tutorial for cs1graphics** (The original is [http://www.cs1graphics.org/](http://www.cs1graphics.org/).)
+-	**Tutorial for cs1graphics**
 
 The slides used in the lectures will also be available online, and there will be slides for every lab session.
  
