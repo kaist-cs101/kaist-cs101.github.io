@@ -5,15 +5,14 @@
 ---
  
 #### [Lectures] 
-- Starting from August 2nd, there will be an **offline lecture** each week in English at E11.
+- Starting from August 31st, there will be an **offline lecture** each week in English at E11.
 - You should submit your student ID and name by the QR code on the seat. Details are on [Elice](https://kaist.elice.io/courses/786861).
 
 #### [Lab Sessions] 
 - Students must join lab sessions offline at Creative Learning Building (E11).
-- Students who cannot join lab sessions offline may join online with the TA's permission.
 - The head TA will lecture at the beginning of each lab session.
 - Then, the students should do the programming practice with the TAs. Please follow the instructions that will be given at the first lab lecture.
-- Please check the detailed instructions posted on the bulletin board at the KLMS site to enroll for the Elice system. [KAIST CS.10001 @ Elice (2026 Fall)](https://kaist.elice.io/courses/786861).
+- Please enroll in the Elice system through the link below. [KAIST CS.10001 @ Elice (2026 Fall)](https://kaist.elice.io/courses/786861).
 - Once you log into the Elice system, please check the announcement board regularly for information about the course.
 
 ## Links
@@ -46,7 +45,7 @@
 For all admin. matters for the School of Computing office, please get in touch with Seong Hee Kang, [diane813@kaist.ac.kr](mailto:diane813@kaist.ac.kr), 042-350-3505, E3-1 1402
 
 ### Teaching Assistants
-6-7 TAs will be assigned to each section
+5-7 TAs will be assigned to each section
 
 ### Head TAs
 - Representative Head TA: Eunho Cho, [head_ta@cs101.kaist.ac.kr](mailto:head_ta@cs101.kaist.ac.kr)
@@ -70,7 +69,7 @@ Since spring 2010, CS.10001 has used **Python**, a programming language *designe
 
 **Homework.** There will also be one course criteria-based simple quiz assignment, and four take-home assignments where you must program slightly more complex tasks.
 
-**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/786861). Elice contains lecture notes, codes, slides, programming tasks, and exams for CS.10001. **We will not use KLMS. Therefore, you should register the Elice.**
+**Elice.** We will also make use of the online programming education platform, [Elice](https://kaist.elice.io/courses/786861). Elice contains lecture notes, codes, slides, and programming tasks for CS.10001. **We will not use KLMS. Therefore, you should register the Elice.**
 
 **Course Website.** The comprehensive [course website](http://cs101.kaist.ac.kr/) contains the syllabus and links to all the software you need in the labs (or to do the lab tasks on your own computer). All other information, such as professors, TAs, and schedules can be found on the course website as well.
 
@@ -80,8 +79,8 @@ CS.10001 grading consists of two parts: practice and theory.
 Practice points are collected as follows:
 - 100 points for lecture attendance
 - 100 points for lab work
-- 50 points for course criteria-related homework(during the second week of semester)
-- 100 points for homework
+- 50 points for course criteria-related homework (HW0, during the second week of semester), given only when you score 100%
+- 100 points for programming homework
 
 Students need to collect at least 300 practice points. Only the students who scored 300~350 practice points are entitled to be graded. Students who did not earn 300 practice points receive a fail grade.
  
@@ -107,10 +106,10 @@ Every student will receive a letter grade (A-F).
 
 **Lecture Attendance Check.** Attendance is checked by two methods, and students should satisfy both methods. 
 
-- Students must access the QR code on the right of the seat (for E11 Turman Hall) or the back of the seat (for E11 Room 304) and submit the form from 10:15 to 10:45. If there is a network issue to access QR code, student must send a mail to head TA until 12:00 with a photo with clock, seat QR code, and class presentation screen.
+- Students must access the QR code on the right of the seat (for E11 Turman Hall) or the back of the seat (for E11 Room 304) and submit the form from 10:15 to 10:45. If there is a network issue to access QR code, student must send a mail to Hyunjun Ahn (a.hyunjun@kaist.ac.kr) until 12:00 with a photo with clock, seat QR code, and class presentation screen.
 - TA will take a photo of the classroom and check for empty seats at a random time after the start of class.
 
-Attendance will be regarded as absent, when two or more students use the same QR code, student use the QR code of empty seats, or student take a seat without a QR code. If student want to claim their attendance record, student must send a mail to representative head TA in 6 days after the class.
+Attendance will be regarded as absent, when two or more students use the same QR code, student use the QR code of empty seats, or student take a seat without a QR code. If student want to claim their attendance record, student must send a mail to Hyunjun Ahn (a.hyunjun@kaist.ac.kr) in 6 days after the class.
 
 **Lab Attendance Check.** Lab attendance is granted only when you (1) complete the lab practice, (2) receive a check/verification from the TA, and (3) sign the attendance sheet in the presence of the TA. If you do not sign the attendance sheet, your attendance will not be recorded, even if you participated. Students who arrive more than 15 minutes late will not be allowed to enter the lab session.
 
@@ -120,7 +119,7 @@ If you cannot attend your scheduled lab session, or if you expect that you will 
 
 Menstrual leave must be requested through the KAIST system. If a Lecture and Lab are scheduled on the same day, only the Lecture will be excused.
 
-All excused absences except menstrual leave must be requested via a Google Form (to be announced later). You must also submit the original documents to Room 522, Building N1. For all other excused absences, if a Lecture and Lab are scheduled on the same day, both the Lecture and the Lab will be excused. 
+All excused absences except menstrual leave must be requested via a Google Form (https://forms.gle/QiBUHQ9s5VsmMG9e6) within 6 days of absence. You must also submit the original documents to Room 522, Building N1 within 6 days of absence. For all other excused absences, if a Lecture and Lab are scheduled on the same day, both the Lecture and the Lab will be excused. 
 
 - Military Service. You must submit an official participation/attendance confirmation.
 - Illness. Only the following documents are accepted:
@@ -140,13 +139,12 @@ All excused absences except menstrual leave must be requested via a Google Form 
 
 ### Pass exam
 In the first week of the semester, we offer a "Pass Exam," which students who have already learned programming can take to fulfill the CS.10001 requirement.
-**For this fall semester, the exam will be held at TBD, 19:15. The place is TBD.**
 
 The pass exam consists of a 150-minute programming exam. Note that the pass exam can consists of CS.10001 modules like cs1robots, cs1media, and cs1graphics modules.
 Accessing any website excluding the exam platform is strictly prohibited.
 
 **If you pass the exam with an A- or better, you cannot discard the score. You should accept your CS.10001 score.**
-If you pass the exam with a B- or better, you can choose to accept the score as your CS.10001 score or to give up the score and take the CS.10001 course.
+If you pass the exam with a B+, B0 or B-, you can choose to accept the score as your CS.10001 score or to give up the score and take the CS.10001 course.
 
 You can find more information about the pass exam on the KAIST portal’s announcement board.
 According to the KAIST rule from ART, **only those who have never taken the CS.10001 can apply for the waiver exam.**
@@ -170,7 +168,7 @@ CS.10001 uses the following materials:
 The slides used in the lectures will also be available online, and there will be slides for every lab session.
  
 ### Software
-We will use the following freely available software: Python 3, PyCharm IDE, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
+We will use the following freely available software: Python 3, Python Imaging Library (Pillow), cs1graphics.py, cs1robots.py, and cs1media.py.
 
 #### Section
 - Lecture Date & Time: Monday 10:30 AM-12:30 PM 
@@ -180,5 +178,5 @@ We will use the following freely available software: Python 3, PyCharm IDE, Pyth
  
 |               | Mon   | Tue   | Wed   | Thu   | Fri   |
 |---------------|-------|-------|-------|-------|-------|
-|  9:00 - 11:45 |       | C & D |       | G & H | I & J |
-| 13:00 - 15:45 | A & B |       | E & F |       |       |
+|  9:00 - 12:00 |       | C & D |       | G & H | I & J |
+| 13:00 - 16:00 | A & B |       | E & F |       |       |
